@@ -49,4 +49,23 @@ public class UserDTO {
 		this.direccion = direccion;
 	}
 	
+	public void setEmail(String email)
+	{
+		this.email = email;
+	}
+	
+	public String getEmail()
+	{
+		return email;
+	}
+	
+	@Override
+	public String toString()
+	{
+		return "Mi id es: " + id
+				+ "\n Mi nombre es: " + nombre 
+				+ "\n Mi direccion es:" + direccion
+				+ "\n Mi correo es:" + email;
+	}
+	
 }
