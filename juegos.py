@@ -18,12 +18,12 @@ if __name__ == "__main__":
 "INSERT INTO sjug_generos_asociados (juego,genero) VALUES (?,?)", #Mandar ids
 
 ####### INSERTAR PLATAFORMA
-"SELECT id_plataforma FROM sjug_plataforma WHERE nombre = ?",
-"INSERT INTO sjug_plataformas_asociados (juego,plataforma) VALUES (?,?)",
+"SELECT id_plataforma FROM sjug_plataforma WHERE nombre LIKE ?",
+"INSERT INTO sjug_plataformas_asociadas (juego,plataforma) VALUES (?,?)",
 
 ####### INSERTAR COMPANIA
-"SELECT id_compania FROM sjug_compania WHERE nombre = ?",
-"INSERT INTO sjug_compania_asociados (juego,compania) VALUES (?,?)",
+"SELECT id_compania FROM sjug_compania WHERE nombre LIKE ?",
+"INSERT INTO sjug_companias_asociadas (juego,compania) VALUES (?,?)",
 
 ####### INSERTAR IMAGEN
 "INSERT INTO sjug_imagen (referencia,alt,juego) VALUES (?,?,?)"
@@ -42,33 +42,56 @@ if __name__ == "__main__":
         break
       ### [titulo,compañia,año,genero,plataforma,descripcion,imagen, resto_del_texto]
       splited = games.split("|",7)
+      splited[0] = splited[0].strip()
+      splited[1] = splited[1].strip()
       games = splited[7] ##Resto cadena
+      ###LIMPIAR GENEROS 
       generos = list(set(splited[3].split(",")))
       generos = [genero.strip() for genero in generos] ##Remove whitespaces
       generos = [genero for genero in generos if genero] ## Remove empty elem.
+      ###LIMPIAR PLATAFORMAS
       plataformas = list(set(splited[4].split(",")))
-      #### INSERT DE JUEGOS
-      t = (splited[0],splited[6],splited[2]) #titu,desc,anio
+      plataformas = [plataforma.strip() for plataforma in plataformas]
+      plataformas = [plataforma for plataforma in plataformas if plataforma]
+      #### INSERCION DEL JUEGO
+      t = (splited[0],splited[5],splited[2]) #tit.,descrip.,anio.
       cr.execute(queries[0],t)
       ### OBTENER ID JUEGO
       cr.execute(queries[1],(splited[0],))
-      id_juego = cr.fetchone()[0] #Return a row
+      id_juego = cr.fetchone()[0] #Returns a row
       print("\n\n********INSERTANDO JUEGO********\n\n")
       print("Id del juego:",id_juego)
       print("Juego:"+splited[0])
-      ### OBTENER ID DE LOS GENEROS
-      id_generos = []
-      print("Generos:",generos)
+      ### INSERCION DE LOS GENEROS
+      print("\n----Insertando generos...")
       for genero in generos:
         cr.execute(queries[2],("%"+genero+"%",))
-        id_generos.append(cr.fetchone()[0])
-      print("Id de generos:",id_generos)
-      ### INSERTAR GENEROS DEL JUEGO
-      for idg in id_generos:
-       print("Id del genero a insertar:",tipo)
-       t = (id_juego,tipo)
-       cr.execute(queries[3],t)
+        id_genero = cr.fetchone()[0]
+        t = (id_juego,id_genero)
+        cr.execute(queries[3],t)
+        print(genero+"("+str(id_genero)+") insertado!")
+      ### INSERCION DE LAS PLATAFORMAS
+      print("\n----Insertando plataformas...")
+      for plataforma in plataformas:
+        cr.execute(queries[4],("%"+plataforma+"%",))
+        id_plataforma = cr.fetchone()[0]
+        t = (id_juego,id_plataforma)
+        cr.execute(queries[5],t)
+        print(plataforma+"("+str(id_plataforma)+") insertada!")
+      ### INSERCION DE LA COMPANIA
+      print("\n----Insertando compania...")
+      cr.execute(queries[6],("%"+splited[1]+"%",))
+      id_compania = cr.fetchone()[0]
+      t = (id_juego,id_compania)
+      cr.execute(queries[7],t)
+      print(splited[1]+"("+str(id_compania)+") insertada!")
+      ### INSERCION DE LA IMAGEN
+      print("\n----Insertando imagen...")
+      t = (splited[6],"Alternativo por defecto",id_juego)
+      cr.execute(queries[8],t)
+      print("Imagen:"+splited[6]+"\nde id_juego:"+str(id_juego)+" insertada!")
+      ### 
     cr.close()
     conn.commit()    
     conn.close()  
-
+    
