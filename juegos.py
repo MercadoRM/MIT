@@ -4,7 +4,7 @@ import sqlite3
 import os
 
 if __name__ == "__main__":
-  data_folder = "Prueba/"
+  data_folder = "Data/"
   base_folder = "Salida/"
   ####Conexion a base d datos
   #conn = sqlite3.connect("gamehouse.db")

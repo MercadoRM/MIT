@@ -1,0 +1,498 @@
+Battle Hunter |Success Corp.|2001|Peleas, Rol (RPG), Estrategia|Linux, PlayStation 3, PSP, PS Vita|En Battle Hunter, juega como un guerrero que lucha contra monstruos y recolecta tesoros de las mazmorras. Para hacer esto, el jugador debe ir a una mazmorra y encontrar el objeto objetivo que debe adquirir. Sin embargo, los monstruos también acechan más el jefe que saldrá si el juego se alarga. El jugador también puede luchar contra otros guerreros para obtener sus elementos (esto es útil si alguien más tiene el elemento objetivo).
+
+El juego admite hasta cuatro jugadores.|https://www.mobygames.com/images/covers/s/103280-battle-hunter-playstation-front-cover.jpg|
+Cosmowarrior Zero |Taito Corporation|2000|Peleas, Acción|Windows, Linux|Cosmowarrior Zero es un juego de combate en 3D basado en personajes del universo de Leiji Matsumoto, o "Leijiverse".
+
+Después de la Gran Guerra contra el Gobierno Galáctico de las máquinas, la Tierra es un planeta en ruinas. Warius Zero una vez fue el comandante de la flota terran, pero perdió a su esposa e hijos durante la guerra y ahora es un hombre destrozado. El gobierno de la Tierra decide darle a Warius una nueva misión: encontrar a los piratas espaciales liderados por el joven Capitán Harlock y detenerlos antes de que el Gobierno Galáctico decida romper el ya débil tratado de paz. Al principio, Warius acepta la misión mientras busca un nuevo significado para su vida. Pero pronto descubrirá que las cosas son mucho, mucho más complicadas ...
+
+El juego presenta escenas de acción en las que exploras niveles y luchas contra enemigos, y batallas contra jefes en arena 3D. El multijugador solo involucra a este último. A medida que avanzas en el "modo historia", desbloqueas nuevos personajes, tanto héroes conocidos del Leijiverso, como Lady Emeraldas, Great Samurai Tochiro, Battle Analyzer (el robot de "Starblazers") y, por supuesto, el Capitán Harlock, y recién llegados. como Grenadier el mercenario, la cazarrecompensas La Sylviana y el malvado Hellmatear. También desbloquea una galería especial que contiene bocetos de producción, obras de arte y dibujos originales del propio Matsumoto.|https://www.mobygames.com/images/covers/s/55991-cosmowarrior-zero-playstation-front-cover.jpg|
+Crisis Beat|Soft Machine|1998|Peleas, Acción|Linux, PlayStation 3, PSP|Crisis Beat es el típico juego de desplazamiento lateral en 3D, pero con más funciones. Ha renderizado cinemáticas y escenas 3D en tiempo real. Los personajes tienen sus propias voces y sus diseños les dan un aspecto de anime. Además, puedes elegir tu personaje entre 2 pares, por lo que su historia comienza de manera diferente.
+
+La historia tiene lugar a bordo de un barco llamado "Princesa de los intrépidos", que es secuestrado por un grupo de terroristas, liderados por el coronel Whigen. Tu personaje tendrá que luchar a través de las diferentes áreas a bordo del barco en un intento por detener a los terroristas.
+
+La lucha enfatiza mucho los combos y los malabarismos aéreos, y el uso de objetos de fondo para atacar a tus oponentes, de una manera totalmente diferente a la mayoría de los beat 'em ups. Además, el nuevo sistema Lock-On Counter separa el juego de los beat'em ups normales.|https://www.mobygames.com/images/covers/s/82468-crisis-beat-playstation-front-cover.jpg|
+Ehrgeiz: God Bless the Ring|Dream Factory Co., Ltd.|1999|Peleas, Rol (RPG), Acción|Linux, Arcade, PlayStation 3, PSP, PS Vita|Ehrgeiz: God Bless the Ring es un juego de lucha estilo arcade de los creadores de Tobal. En esta versión, Cloud, Tifa, Yuffie, Vincent, Zack, Red XIII y Sephiroth de Final Fantasy VII se unen a los muchos personajes de la versión arcade lanzada en Japón.
+
+Compuesto por el modo arcade principal, el modo minijuego y un modo RPG completamente nuevo conocido como "Brand New Quest".
+
+El modo de minijuego contiene cuatro juegos:
+
+- Battle Beach, un triatlón de machacar botones.
+
+- Battle Square, tackle-Othello en un piso de discoteca
+
+- Infinity Battle, una prueba de resistencia con vidas ilimitadas.
+
+- Y un juego de carreras a pie con los controles del juego de lucha.
+
+El modo de juego principal es un juego de lucha estilo arcade. Luchadores carismáticos de todo el mundo compiten en un torneo por una espada misteriosa como premio. Además de tus arquetipos de kickboxers, luchadores y artistas marciales mixtos, también hay luchadores de tipo animal, misiles autoguiados, personajes con espadas y muchos otros ataques que sacuden las cosas.
+
+El sistema de lucha se basa en la altura del ataque (muy parecido a Bushido Blade), con los botones triangular, cuadrado y x correspondientes a los ataques altos, medios y bajos, respectivamente. También hay diferentes botones para guardia baja y alta, ambos funcionan contra ataques de nivel medio pero específicos para ataques altos y bajos. El botón circular se utiliza para ataques "especiales", que drenan la barra "especial". Hay un botón para saltar, así como un botón que cambia entre 'bloquear' el objetivo para moverse o correr libremente.
+
+El equilibrio estándar en los juegos de lucha es velocidad contra daño. Ya sean ataques a distancia o cuerpo a cuerpo, el 'daño por segundo' debería ser el mismo, ya que todos los personajes tienen la misma barra de salud. Ehrgeiz es un juego muy equilibrado, a pesar de la complejidad presentada por lo fundamentalmente diferentes que son la mayoría de los personajes.
+
+Las grandes diferencias entre ciertos personajes requieren que el jugador diseñe estrategias separadas para diferentes oponentes. Los oponentes de tipo animal, por ejemplo, solo pueden ser golpeados con aproximadamente la mitad de los ataques de los oponentes normales: patadas a la cabeza, muchos ataques de largo alcance y la mayoría de los lanzamientos golpearán el aire vacío, especialmente porque los personajes animales pueden 'agacharse' aún más bajo suelo. Luchar contra un personaje que empuña un arma resultará en una batalla en la que deberás perseguir y detener. Luchar contra Cloud o Sephiroth requerirá una presión constante y vigilancia contra ser arrojados para asegurarse de que no puedan desenvainar su espada y terminar la pelea con unos pocos golpes.
+
+El juego presenta disfraces y personajes desbloqueables, así como 'videos finales'.
+
+La función "Brand New Quest" es un explorador de mazmorras que utiliza el motor del juego de lucha junto con diseños de mazmorras generados aleatoriamente para crear una mazmorra de 25 niveles con jefes establecidos. Toma prestado el sistema de magia y equipamiento de los juegos de Final Fantasy, recolectarás materia y piedras mágicas, así como una gama completa de armas y armaduras visiblemente diferentes. Este juego pone un gran énfasis en la comida (como la primera serie Ultima). No solo tendrás que comer, sino que también tendrás que ser consciente de lo que estás comiendo: tu dieta afecta cómo cambian tus estadísticas al subir de nivel. Come carne para fortalecer, minerales para destreza, carbohidratos para velocidad, lípidos para defensa y vitaminas para habilidad mágica. Estar quieto permite que su medidor de 'estómago' agotado llene su salud. Sin embargo, si su medidor de hambre llega a 'cero', comenzará a agotar su salud.|https://www.mobygames.com/images/covers/s/25417-ehrgeiz-god-bless-the-ring-playstation-front-cover.jpg|
+Gundam Battle Assault |Natsume Co., Ltd.|2000|Peleas, Acción, Arcade|Linux|Este juego es la continuación de Gundam: The Battle Master. Heero Yuy, el piloto de un Mobile Suit Wing Gundam tiene la misión de destruir los Mobile Suits enemigos restantes, que están bajo el mando de Treize Khushrenada, para evitar que comience una guerra. En el modo historia, Heero puede pilotar cualquiera de los trajes móviles disponibles para luchar contra sus enemigos. Cada palo tiene su propio conjunto de movimientos especiales y un súper ataque. Algunos de los ataques especiales basados ​​en armas usan munición que eventualmente puede agotarse. El súper ataque solo se puede usar 3 veces durante cada pelea. Cada traje también tiene propulsores que se pueden usar para volar un poco en el aire. En el lado defensivo, los jugadores pueden esquivar los ataques esquivando y también pueden utilizar un escudo de rayos que se puede utilizar para proteger al jugador de los ataques de proyectiles. Los trajes móviles vienen con 3 barras de vida en total y las peleas se deciden tratando de agotar todas las barras de vida de un traje móvil enemigo.
+
+El juego también contiene un modo de 2 jugadores versus.
+
+Las opciones le permiten al jugador elegir su nivel de dificultad y también le permiten activar o desactivar el temporizador durante un partido.|https://www.mobygames.com/images/covers/s/610141-gundam-battle-assault-playstation-front-cover.jpg|
+Hokuto no Ken: Seikimatsu Kyūseishu Densetsu |Natsume Co., Ltd.|2000|Peleas, Acción|Linux|Juego beat 'em up en 3D que sigue la historia de la primera serie del anime. Jugando como Kenshiro, viajarás a través de desiertos, ciudades y otros lugares del anime enfrentándote a hordas de malos con las mortíferas artes marciales Hokuto. A veces, contra algunos enemigos, la acción se congela y el jugador debe presionar una determinada combinación de botones para realizar una técnica especial y matar al antagonista. La acción se divide en niveles, divididos en muchos subcapítulos. Al final de cada nivel, el jugador puede guardar los avances logrados en la tarjeta de memoria. El juego es bastante sangriento y de ritmo rápido. También sigue muy de cerca la historia del anime y utiliza escenas largas (realizadas con el motor del juego) para describir los desarrollos de la trama. Un modo de 2 jugadores versus con todos los personajes principales de anime está disponible después de superar el juego para un solo jugador.|https://www.mobygames.com/images/covers/s/163728-hokuto-no-ken-seikimatsu-kyuseishu-densetsu-playstation-front-cover.jpg|
+JoJo's Bizarre Adventure|Capcom Co., Ltd.|2000|Peleas, Acción, Arcade|Linux, Arcade|Basado en el manga / anime japonés del mismo nombre, JoJo's Bizarre Adventure es un luchador en 2D de Capcom. Asume el papel de uno de los 18 personajes y lucha contra tus amigos en el modo Arcade, o asume el papel de Jotaro "JoJo" Kujo y sus amigos en el modo Super Story mientras se abren camino hacia el malvado vampiro, Dio Brando, para ¡Para salvar al mundo!
+
+También existe una versión de Dreamcast, pero sin el modo Super Story y un par de personajes faltantes. Ambos juegos fueron versiones del luchador arcade de Capcom, JoJo's Venture y su actualización, JoJo's Bizarre Adventure.|https://www.mobygames.com/images/covers/s/6055-jojo-s-bizarre-adventure-playstation-front-cover.jpg|
+Kakuge Yarō: Fighting Game Creator |D.A.S.T, Outback Pty. Ltd.|2000|Peleas, Acción|Linux, PlayStation 3, PSP, PS Vita |Kakuge Yarō es un juego de construcción de lucha similar a Fighter Maker. Elija uno de los siete personajes, luego cambie sus atributos, movimientos, colores, rostro y estilo general como mejor le parezca. Luego, toma tu luchador personalizado y lucha contra la CPU u otro jugador.
+
+Hay una variedad de fondos de juego disponibles, y para aquellos menos interesados en el diseño, también puede usar personajes prefabricados.|https://www.mobygames.com/images/covers/s/150126-kakuge-yaro-fighting-game-creator-playstation-front-cover.jpg|
+Kidō Keisatsu Patlabor: Game Edition|Bandai Visual Co., Ltd., Production I.G, Inc.|2000|Peleas, Acción|Linux|Un virus informático se está propagando e infectando los sistemas operativos en Labors por la ciudad, y como miembro más reciente de la Sección 2 de Vehículos Especiales de la Policía Metropolitana de Tokio, es tarea del jugador, junto con el resto de la unidad, tratar de encontrar la causa y hacer seguro que se soluciona antes de que las cosas se salgan de control.
+
+Kidō Keisatsu Patlabor: Game Edition es una combinación de dos estilos de juego claramente diferentes; Divide el juego en secciones de Novela visual y de acción en las que el jugador lucha contra criminales y Labores infectados en la ciudad mientras pilota el AV-98 Ingram-3, el propio mecanismo de trabajo de la policía.
+
+Las partes de novela visual del juego no contienen interacción con el juego y están destinadas a transmitir la mayor parte de la historia en el juego. Estos actúan como la primera y última parte de cada capítulo, con la sección de lucha en el medio. Las secciones de acción hacen que el jugador se enfrente a otras mechas laborales en varias partes de la ciudad. La acción se inclina hacia un estilo de juego táctico, donde el jugador necesita dejar que una barra de acción se llene por completo antes de que pueda realizar movimientos ofensivos contra el oponente. Mientras tanto, la única opción es encontrar una buena posición desde la que apresurarse y atacar, mientras bloquea y evita los ataques enemigos. El AV-98 Ingram-3 está equipado con un arma, que se puede usar un número limitado de veces para disparar al oponente desde la distancia. El jugador debe quedarse quieto y apuntar antes de disparar el arma, y ​​un golpe directo causa daño y el enemigo cae por un corto período de tiempo. La mayor parte de la lucha se compone de agarrar al oponente y tratar de acumular combos altos de puñetazos, patadas y lanzamientos. Cuanto más larga sea la cadena, más daño se inflige. Ciertos ataques romperán la cadena, por lo que es importante elegir los ataques correctamente. Golpear al oponente se realiza presionando el botón cronometrando las señales visuales en la pantalla.
+
+A medida que avanza el juego, los modelos 3D de los oponentes derrotados se pueden ver en una galería especial del menú principal del juego, junto con información sobre el mecanismo de trabajo respectivo.|https://www.mobygames.com/images/shots/s/581138-kido-keisatsu-patlabor-game-edition-playstation-screenshot.jpg|
+Marvel vs. Capcom: Clash of Super Heroes |Capcom Co., Ltd.|2000|Peleas, Acción|Linux, Arcade, Dreamcast|Marvel vs.Capcom: Clash of Super Heroes es un juego de lucha en 2D que combina personajes de los videojuegos de Capcom con personajes del universo de cómics de Marvel, similar a Marvel Super Heroes vs. Luchador callejero. El juego tiene lugar en un universo de Marvel donde el profesor Charles Xavier les pide a los héroes que lo ayuden antes de fusionarse con la conciencia de Magneto para formar el ser conocido como Onslaught, el jefe final.
+
+El juego sigue el modo de juego de lucha estándar, pero a diferencia de X-Men vs. Street Fighter, ahora debes formar un escuadrón de tres personajes en lugar de dos. Los otros personajes pueden ser convocados para ataques de asistencia y también hay un ataque en equipo dúo para controlar a dos personajes por un breve tiempo, junto con la capacidad de realizar súper movimientos donde los personajes se unen.
+
+Las opciones incluyen una batalla de arcade directa, modos de etiqueta para 4 jugadores (solo versión Dreamcast), un modo de supervivencia (muy parecido a Street Fighter Alpha 3) y un modo de entrenamiento. La versión de PlayStation no tiene el modo de etiqueta para 4 jugadores y también reduce el segundo personaje a un rol de asistencia, pero además introduce un modo "cruzado" donde es posible jugar en equipo con equipos idénticos.
+
+Para Marvel, el elenco de personajes jugables incluye Spider Man, Capitán América, Venom, Hulk, Gambit, War Machine, Wolverine, Gold War Machine (personaje secreto), Hyper Venom (personaje secreto), Orange Hulk (personaje secreto) y Onslaught (personaje secreto) personaje). El lado de Capcom ofrece a Chun-Li, Ryu, Zangief, Morrigan Aensland, Captain Commando, Megaman (Rockman en Asia), Strider Hiryu, Jin Saotome, Roll (personaje secreto), Lilith-Mode Morrigan (personaje secreto) y Shadow Lady (secreto personaje). También hay una gran cantidad de socios especiales que pueden ser convocados.|https://www.mobygames.com/images/covers/s/7904-marvel-vs-capcom-clash-of-super-heroes-playstation-front-cover.jpg|
+X-Men: Mutant Academy |Paradox Development|2000|Peleas, Acción|Linux|X-Men: Mutant Academy es un juego de lucha con escenarios tridimensionales, pero que se adhiere en gran medida a las reglas de los luchadores 2D. Los protagonistas son una combinación de los personajes de los cómics clásicos de Marvel y la película X-Men. Casi todos los personajes de X-Men están disponibles, cada uno con sus movimientos normales (al igual que Street Fighter en términos de los botones presionados en el panel de control), y muchos súper movimientos para animar las cosas.
+
+El CD también contiene varios materiales adicionales, que van desde clips de películas de un luchador después de que el jugador ha completado el juego con él / ella, nuevos disfraces (cada luchador comienza con disfraces de los cómics; los nuevos, cuando se desbloquean, son muy parecidos a los los de la película) y una historia de la película que se desbloquea cuando el jugador completa el juego con todos los luchadores.
+
+También se incluye un avance de la película de X-Men y dibujos animados de los diseñadores de Marvel Joe Maduera, Adam y Andy Kubert, y más.|https://www.mobygames.com/images/covers/s/6187-x-men-mutant-academy-playstation-front-cover.jpg|
+Samurai Shodown: Warriors Rage |Japan Vistec, SNK Corporation|2000|Peleas, Acción|Linux, PlayStation 3, PSP, PS Vita |Warriors Rage es el séptimo juego de Samurai Shodown. Los eventos del juego tienen lugar veinte años después de los descritos en los predecesores arcade Hyper Neo Geo 64.
+
+El juego incluye nuevos espadachines como Rinka Yoshino (una hija de la familia samurái), Seishiro Kuki (el nuevo protagonista), Ran Po, Garyo the Whirlwind, Jin-Emon Hanafusa y más. El juego presenta un nuevo sistema de indicador de vida, dividido en tres secciones; cuando las dos secciones se agotan del oponente, el personaje realiza movimientos de burla.|https://www.mobygames.com/images/covers/s/266698-samurai-shodown-warriors-rage-playstation-front-cover.jpg|
+
+
+
+
+
+
+Akuto: Showdown|Hut 90, Inc.|2019|Peleas, Acción|Linux, Macintosh, Nintendo Switch, Windows|Akuto: Showdown es un juego de acción isométrico de ritmo rápido en el que los jugadores luchan con diferentes armas en intensas batallas. El juego se desarrolla en varias etapas en las que los jugadores no solo deben tener cuidado con los oponentes, sino también con el entorno para que no los mate. Coches en las calles, trenes y pistoleros, todos esperando su paso descuidado. Las arenas están ambientadas en diferentes temas como el Lejano Oeste o el Japón medieval. Hay 10 armas cuerpo a cuerpo desbloqueables, desde espadas estándar hasta palas y ... piernas. Lo mismo se aplica a las armas de fuego, hay 15 tipos de armas de fuego a su disposición: pistola, escopeta o incluso una varita mágica. Para que tu personaje sea único, puedes personalizar a tu luchador con uno de los muchos sombreros divertidos. ¿Entonces, Qué esperas? ¡Reúnanse, saquen su espada, el enfrentamiento ha comenzado! Características: - Disfruta de la intensidad y la diversión de los juegos clásicos de fiestas en el sofá, pero con más violencia - Una amplia gama de niveles dinámicos con peligros ambientales - ¡Armas desbloqueables y HATS! - Lucha contra tus amigos en el modo multijugador local o juega contra los bots en uno de los muchos modos versus|https://www.mobygames.com/images/covers/s/612816-akuto-showdown-linux-front-cover.jpg|
+Boobs 'Em Up|Cool Girls Games|2019|Peleas, Rol (RPG), Acción|Linux, Macintosh, Windows |Boobs 'em up es un juego de lucha para un jugador controlado por teclado con opciones multijugador. El juego base es gratuito y proporciona un personaje, Desiree, pero hay muchos más disponibles como contenido descargable y de pago. En el momento de escribir este artículo, mayo de 2019, STEAM enumera noventa y nueve complementos para este juego que van desde personajes masculinos, femeninos y transgénero; nuevas localizaciones entre las que se encuentran discotecas y baños para que bailen los personajes; nuevos niveles multijugador que incluyen un club de striptease y una clínica de ginecología; y personalizaciones adicionales que incluyen piercings corporales y cabello íntimo.
+mientras que los personajes adicionales deben pagarse, hay mensajes en el juego que indican que una vez que un jugador completa un nivel de un solo jugador, puede descargar otro personaje de forma gratuita.
+
+En el juego para un solo jugador, el jugador controla a una prostituta desnuda luchando contra otras prostitutas desnudas mientras, en el fondo, otros personajes que no juegan tienen relaciones sexuales. Todos los niveles de un jugador se disputan en una pantalla de desplazamiento lateral en 2D donde las oleadas de oponentes llegan a Desiree a la vez. NO es una pelea justa desde el principio y, aunque las barras de estado en la parte superior de la pantalla pueden mostrar la salud de Desiree y la de otro oponente, el combate es más un combate cuerpo a cuerpo que uno contra uno. Los primeros niveles se luchan en la calle y el jugador puede encontrar y usar armas, algunas están esparcidas mientras que otras pueden ser lanzadas por oponentes derrotados, un consolador es un gran arma arrojadiza en este juego. Se pueden encontrar armas adicionales rompiendo cajas, botes de basura y otros muebles urbanos.
+Los niveles multijugador son 3D y de itinerancia libre por naturaleza y cuentan con ubicaciones interiores como un club de striptease y una clínica de ginecología. Aquí el combate es el mismo, pero los ángulos de la cámara se pueden cambiar, aunque el valor predeterminado tiende a ser desde arriba y detrás del personaje del jugador.
+
+El personaje inicial es Desiree, cuya biografía en el juego dice que nació en Argentina, se crió en los Estados Unidos como mormona y pasó cuatro años en el equipo de baile de la universidad. Comenzó a trabajar en San Diego y salió con un chico que dirigía un sitio porno y filmó algunas escenas de sexo con él y cuando terminaron, naturalmente decidió intentar trabajar como prostituta.
+
+El juego gratuito comienza con una escena que muestra a Desiree en el gimnasio frente a un muñeco de paja contra el que el jugador puede practicar sus movimientos de ataque y defensa y aumentar su nivel de habilidad. Alrededor de los bordes exteriores de la pantalla hay iconos para diferentes eventos.
+
+    En las siguientes descripciones, MP se refiere a niveles multijugador, todos estos son niveles adicionales que deben comprarse.
+    A la izquierda de la pantalla hay iconos para iniciar el Nivel Uno (un jugador); entrar al MP Big Club; entrar al MP Strip Club; ingrese MP Ginecología; y comienza el nivel dos (un jugador).
+    Junto a estos iconos están los controles del juego;
+        Brillo: que, como dice, permite al jugador ajustar el brillo de la pantalla.
+        Ginecología, que le da al jugador más de veinte controles deslizantes para personalizar la vagina de Desiree.
+        Habilidades: donde Desiree mostrará su destreza en artes marciales.
+        Personalización: donde el jugador puede alterar la cara y el cuerpo de Desiree
+        Orientación sexual: Desiree puede ser heterosexual o lesbiana, también hay una opción gay aquí porque es posible jugar como un prostituto.
+        Idiomas: el idioma predeterminado es el inglés de EE. UU., Pero hay muchos más
+        Desnudez sexual: este es un enlace a la página de compra de STEAM para desnudez sexual en la que mujeres desnudas corren y pelean en un pueblo japonés.
+        Teclado: en el que se pueden reasignar las tres teclas necesarias para jugar el juego
+    En la parte superior derecha de la pantalla hay iconos para;
+        Dormitorio Zen en el que se ve y se escucha a Desiree teniendo sexo. Esta es una escena de corte con una cámara móvil libre, el jugador parece no tener ningún control
+        Clubes: esto abre una escena de club nocturno en el que Desiree está bailando. En el suelo con ella hay dos bailarines que el jugador puede alternar para ser hombre o mujer. También en el club hay dos parejas teniendo sexo y el jugador puede cambiar la cámara para verlas si lo prefiere.
+    A la derecha del menú principal hay iconos de otros personajes que son compras adicionales.|https://www.mobygames.com/images/covers/s/545891-boobs-em-up-linux-front-cover.jpg|
+Fantasy Strike |Sirlin Games, LLC|2017|Peleas, Plataforma, Acción|Linux, Macintosh, Nintendo Switch, PlayStation 4, Windows|¡Sé un arquero con flechas de fuego, un pintor colorido, un maestro de artes marciales que puede transformarse en un dragón, y más! La fantasía se encuentra con las artes marciales en este mundo vibrante.
+
+Si eres nuevo en los juegos de lucha
+Diseñado para funcionar muy bien en el teclado, sin necesidad de un controlador especial. Hemos optimizado el género para que pueda pasar a la parte divertida de la toma de decisiones lo antes posible. Todos los movimientos son solo presionar un botón, los combos son fáciles, las listas de movimientos son concisas. Cortamos la paja para centrarnos en el corazón del género para poder mostrarte por qué los juegos de lucha son increíbles.
+
+Si eres un veterano
+Este juego está diseñado por un ex-desarrollador de Street Fighter y jugador incondicional para jugar en torneos. Conflictos, acometidas, zonificación y los luchadores parecían demasiado poderosos el día 1. Tiene todo eso. Y puedes jugarlo con prácticamente cualquier persona en la comunidad de juegos de lucha, sin importar qué otro juego de lucha jueguen, porque todos pueden alcanzar la competencia básica en Fantasy Strike en minutos y comenzar a jugar de verdad. Además, puedes jugar con un joystick, un gamepad, un controlador Guitar Hero o lo que quieras.
+Puntos de viñeta
+
+    Excelente juego en línea. Utiliza GGPO, la mejor tecnología de red de su clase que cualquier juego de lucha competente debería usar.
+    Modos de juego disponibles ahora: juega partidas rápidas en línea, desafía directamente a un amigo, juega multijugador local, sala de juegos o prueba nuestro modo de práctica con todas las funciones. Varios modos más están en proceso.
+    Lanzamiento de escape único. Para escapar de los lanzamientos (normales), simplemente suelta todos tus controles. Automáticamente "yomi" contrarrestará cualquier intento de lanzamiento.
+    La barra de vida muestra puntos de vida discretos. Siempre sabes exactamente cuánto hará un combo porque las barras de vida muestran cada punto de golpe individual.
+    Continuar.|https://www.mobygames.com/images/covers/s/638597-fantasy-strike-linux-front-cover.jpg|
+It's Raining Fists and Metal|Corvostudio di Amadei Marco|2019|Peleas, Plataforma, Acción, Música|Linux, Nintendo Switch, Windows |¡Muestre a sus oponentes lo que es el verdadero Metal! Ábrete camino hasta la cima derribando a tus oponentes de tu altar de gloria.
+¡Conquista el escenario y gana los elogios de la multitud en este espectacular juego de lucha!
+Recuerda, ¡el ritmo es la llave de las puertas del metal!
+
+Principales características
+
+     1 a 4 jugadores en la misma pantalla
+     Juega con amigos o contra la computadora
+     Domina a tus oponentes haciendo moshing y luchando contra ellos al ritmo del Metal para sacarlos del escenario.
+     Reproduce muchas pistas de metal diferentes compuestas específicamente para el juego.
+     Selecciona tu guitarrista y personaliza su ropa y su instrumento
+     Juega en diferentes mapas, cada uno con potenciadores únicos
+     Modo aventura (un jugador y cooperativo)
+     Personajes únicos con personalidad definida|https://www.mobygames.com/images/covers/s/627974-it-s-raining-fists-and-metal-linux-front-cover.jpg|
+Shovel Knight: Showdown|Yacht Club Games, LLC|2019|Peleas, Acción|Linux, Macintosh, Nintendo Switch, Windows|Shovel Knight Showdown es la mejor experiencia de lucha en plataformas, donde puedes batirte en duelo con hasta 4 jugadores y luchar tras gemas como tu caballero heroico o villano favorito de la saga Shovel Knight: Treasure Trove. Reúne a tus amigos para interminables enfrentamientos multijugador o elige entre más de 16 personajes jugables en el modo Historia, cada uno con su propia historia única que contar. ¡Domina cada movimiento, explora una amplia gama de elementos y lugares, y descubre nuevas revelaciones en Shovel Knight Showdown!
+
+Cuando una catástrofe mágica crea un mundo de batallas sin fin, los héroes y villanos de la saga Shovel Knight deben descubrir el origen del desastre y luchar para arreglar las cosas. Juega como tu personaje favorito (solo o con un amigo en batallas cooperativas), enfréntate a poderosos rivales y perfecciona tus habilidades de lucha de plataformas en modos de práctica y objetivo con todas las funciones en tu camino hacia un encuentro final completamente nuevo. Desbloquea contenido nuevo y vuelve a visitar Shovel Knight Showdown una y otra vez mientras profundizas en una inmensa variedad de modos, características y personalizaciones para un jugador y multijugador local.
+caracteristicas:
+
+    Juega como todos los héroes y villanos clave de Shovel Knight, ¡muchos por primera vez! ¡Domina más de 16 personajes jugables, incluidos Shovel Knight, Shield Knight, Black Knight, The Enchantress y todos los Knights of the Order of No Quarter!
+    ¡Compite en duelos uno a uno y frenéticos enfrentamientos todos contra todos para 4 jugadores contra rivales locales en modos como Gem Clash, Showdown y más!
+    ¡Únete a tus amigos en batallas cooperativas en equipo contra oponentes de la IA (o entre ellos) y crea los dúos de tus sueños a partir del extenso elenco de personajes!
+    ¡Lucha en el modo Historia, un viaje de varias etapas personalizado para cada personaje! El héroe elegido se enfrentará a un rival, derrotará a decenas de oponentes, se relajará con uno o dos minijuegos y, con suerte, verá su historia completa después de un encuentro final completamente nuevo.
+    Explore innumerables escenarios inspirados en personajes y lugares famosos en Shovel Knight, así como una gran cantidad de lugares completamente nuevos.
+    Prepara y perfecciona tus movimientos en el modo de práctica, juega al contenido de tu corazón con toneladas de opciones de personalización de batalla y perfecciona tus habilidades con hazañas traicioneras y el caótico modo Target.
+    Nuevas canciones complementan una banda sonora galardonada compuesta por Jake “Virt” Kaufman.|https://www.mobygames.com/game/linux/shovel-knight-showdown/cover-art/gameCoverId,612866/|
+A Gummy's Life|EP Games|2017|Peleas, Acción|Linux, Macintosh, Nintendo Switch, Windows|Caracteristicas
+
+    ¡Multijugador local hasta 16 jugadores!
+        Juega como una gomita con hasta 16 amigos en tu sofá y hasta 8 en el modo en línea.
+    Fácil de jugar, difícil de dominar
+        Puedes sentarte, romper todos los botones y divertirte o ... ¡usa el movimiento correcto en cada situación para derribar a tus oponentes!
+    Diferentes modos de juego
+        Hot Potato, King of the Hill, Team Deathmatch ... La diversión no se detiene en el clásico modo Free for All.
+    Soporte completo de controlador y teclado
+        Los controladores más comunes son compatibles desde el primer momento. También puede crear un perfil y personalizar su diseño de control. También se admiten el teclado y el mouse (un jugador puede jugar con el teclado y el mouse). Sin embargo, recomendamos un gamepad: D
+    Toneladas de niveles para jugar con diferentes estilos de juego y mecánicas.
+        Encontrarás algo nuevo en cada nivel. Cada uno tiene una forma diferente de jugar. ¡Diviértete descubriendo todos sus secretos!
+    Un montón de gomitas diferentes para jugar
+        Cada uno de ellos tiene estadísticas ligeramente diferentes. ¡Puedes elegir entre muchos colores diferentes y también hay gomitas desbloqueables!
+    Peleas locas basadas en simulaciones físicas
+        Impactantes golpes y lanzamientos increíbles. Cada pelea es realmente única.
+    Actualizaciones periódicas de contenido
+        Hemos estado actualizando el juego desde nuestro primer lanzamiento y seguiremos haciéndolo. ¡Nos gustaría escuchar sus sugerencias en el foro de discusión!
+    Burlas!
+        Burlarse de sus amigos para celebrar su victoria ... o hacer que vayan tras usted.
+    Para todas las edades
+        Es divertido y fácil de jugar para todas las personas. ¡Incluso puedes jugar con tu abuela!
+    Gomitas !!
+
+
+El mundo de una gomita
+¡Advertencia! En A Gummy’s Life, las gomitas han cobrado vida ... ¡Y son ingobernables!
+
+Han invadido la ciudad, están por todos lados: en el estadio de fútbol, ​​el parque, la fortaleza, la feria… hasta en el flan.
+Sus peleas sin fin de todos contra todos atraen la atención de la gente debido a sus divertidos movimientos en gelatina, pero sus golpes son sólidos y bien dirigidos. Por su ingenio, convierten los elementos del paisaje en obstáculos insuperables. ¡Parecían tan dulces!
+
+Elige tu gominola favorita entre una gran variedad, personalízala a tu gusto y disfruta jugando y riendo con tus amigos o tu familia. ¡Ataque! Solo uno puede permanecer.
+
+¡Demuestra quién está a cargo del azúcar!
+
+A Gummy's Life: un juego en el que el ganador es el que más disfruta. Pero la diversión aún no acaba, porque el juego se actualizará con nuevos niveles y personajes que te sorprenderán.
+
+Mapa vial
+
+Dado que estamos en Acceso anticipado, queremos que sepa que seguiremos actualizando el juego con nuevas mecánicas de juego, niveles, gomitas, etc.
+
+Al salir del acceso anticipado, estaremos aumentando el precio base del juego.
+
+Así que únete a la comunidad, ayúdanos a crecer y divertirte mientras estás aquí.|https://www.mobygames.com/images/covers/s/508140-a-gummy-s-life-linux-front-cover.jpg|
+Virtua Fighter 2 |Gaibrain|2018|Peleas, Acción|Linux, Genesis, Macintosh, Wii, Windows |Un año después de la primera edición del World Fighting Tournament, ganado por Lau Chan, se vuelven a enviar invitaciones, esta vez a la segunda edición del Torneo. ¿Serán suficientes las nuevas técnicas de Akira para vencer a Wolf? ¿Podrá Lau defender su título contra su hija Pai? ¿Jacky rescatará a su hermana Sarah, a quien le han lavado el cerebro para matarlo? ¿Jeffry ganará suficiente dinero para rastrear al Satan Shark? Y Kage, ¿descubrirá si el misterioso cartel del Juicio 6 está detrás del torneo? Todo está por verse ...
+
+Esta versión de 16 bits, que comparte el nombre con el segundo título de la serie seminal de luchadores en 3D de Sega, lleva el juego al mundo de los luchadores en 2D.
+
+Mientras que el entorno completamente poligonal de la versión arcade / saturn se rayó en favor de los sprites regulares y la cámara de desplazamiento lateral debido a limitaciones tecnológicas obvias (más los costos de fabricación que descartan el chip SVP utilizado en Virtua Racing) y con solo los 8 personajes originales en la serie, el resto fue tomado directamente o inspirado por su hermano mayor. Las arenas están todas dibujadas de acuerdo con los títulos de 32 bits (e incluso cuentan con un pequeño truco de desplazamiento de paralaje para proporcionar una ligera ilusión 3D), al igual que los personajes, y también presenta muchos de los mismos efectos de sonido y música. El juego también está inspirado en la versión original, con muchas combinaciones de botones que permanecen sin cambios.|https://www.mobygames.com/images/covers/s/283277-virtua-fighter-2-linux-front-cover.jpg|
+Super Rocket Shootout |Oddly Shaped Pixels|2017|Peleas, Plataforma, Acción|Linux, Macintosh, Nintendo Switch, Windows |Los gemelos nunca lo tienen fácil, ¡y no es diferente para Maurice y El Bruto! Frustrados por su incapacidad para ejecutar sus robos bancarios elaboradamente planificados, se pelean y discuten solo de la forma en que los hermanos pueden hacerlo, dejando un rastro de caos y destrucción detrás de ellos.
+
+SUPER ROCKET SHOOTOUT es un frenético y divertido juego de lucha de pixelart en 2D, que mezcla plataformas y mecánicas de lucha para hasta 4 jugadores (CPU o multijugador local). El sistema de combate es accesible y profundo, con movimientos, combos, súper ataques, contraataques, armas adicionales y mucho más inducidos por el jetpack.
+Jetpack, armas y explosiones
+
+    Domina tu jetpack y deslízate justo detrás de tus enemigos.
+    Usa tu escopeta a distancia o cuerpo a cuerpo.
+    Lanza misiles autoguiados, bumeranes, bombas de teletransporte y muchas más armas locas.
+
+Sistema de lucha profundo
+
+    Usa tu escudo sabiamente, lanza bloques perfectos.
+    Construye combos y llena tu súper medidor.
+    Lanza devastadores Super Moves, Super Attacks y Counters.
+
+Mucho contenido
+
+    Modo historia atractivo, modo multijugador local, juego en equipo.
+    8 personajes jugables con cada uno sus propias habilidades y Super Attack.
+    8 etapas interactivas y destructibles.
+    Montones de logros y armas extra desbloqueables.
+
+Super Rocket Shootout es una excelente manera de pasar el rato con amigos y disfrutar de los encantadores personajes del juego, ¡así como una salida perfecta para liberar cualquier frustración reprimida!
+
+Super Rocket Shootout fue desarrollado por Oddly Shaped Pixels, un estudio de desarrollo unipersonal con sede mundial en Lyon, Francia.|https://www.mobygames.com/images/covers/s/469433-super-rocket-shootout-linux-front-cover.jpg|
+DragoDino |TealRocks Studio|2017|Peleas, Acción, Aventura, Plataforma, Rompecabezas|Linux, Macintosh, Nintendo Switch, Windows, Xbox One |¡Ábrete camino hasta la cima en DragoDino, una aventura épica ambientada en un mundo en constante cambio!
+
+Conoce a Bob, un DragoDino, y guíalo a través de los 10 niveles del Reino del Bosque en una búsqueda para recuperar su huevo perdido atrapado en lo alto de un árbol gigante.
+
+Explora y lucha contra enemigos para llegar cada vez más alto, recolectando poderes en tu camino para ayudarte en tu búsqueda. Pero ten cuidado, los guardianes que conocerás no te dejarán pasar tan fácilmente.
+
+Mezcla y combina potenciadores, juega como varios DragoDinos, aprovechando las habilidades de cada uno. Disfruta de 2 modos de dificultad, además de un modo gratuito para practicar y mejorar. ¡En solitario o en modo cooperativo, acepta el desafío!
+Características principales:
+
+     10 niveles
+     2 modos de dificultad: normal (3 vidas y puntos de control) / extremo (1 vida, sin punto de control)
+     2 personajes jugables con 2 máscaras
+     40 potenciadores
+     50 enemigos
+     3 jefes
+     un modo cooperativo local
+     un mundo de dibujos animados
+     2 personajes desbloqueables
+     Elementos especiales que revelan el contenido de la historia
+     Banda Sonora Original|https://www.mobygames.com/images/covers/s/468591-dragodino-linux-front-cover.jpg|
+
+
+
+
+
+Gang Beasts |Boneloaf|2014|Peleas, Acción, Plataforma|Linux, Macintosh, PlayStation 4, Windows, Xbox One|Gang Beasts es un juego de fiesta multijugador tonto con personajes gelatinosos hoscos, secuencias brutales de lucha cuerpo a cuerpo y entornos absurdamente peligrosos.
+
+Observe con horror y diversión cómo bandas de malhechores gomosos luchan para agarrar, empujar, tirar y obligar a sus enemigos a salir de los andamios de limpieza de ventanas suspendidos, las atracciones de parques de atracciones descuidadas y los camiones de transporte comerciales.
+
+Jadear de sorpresa y deleite ante el espectáculo de matones ridículamente belicosos que golpean, patean y lanzan a sus enemigos contra maquinaria peligrosa no especificada, fosas de incineración en llamas y el camino de los trenes en movimiento.|https://www.mobygames.com/images/covers/s/384274-gang-beasts-linux-front-cover.jpg|
+Pray for Death |Light Shock Software s.n.c.|2017|Peleas, Acción|Linux, DOS, Macintosh, Windows|Este es uno de los pocos juegos de lucha que sigue la escuela de lucha de Killer Instinct, es decir: muchos atractivos para la vista, banda sonora tecno y movimientos combinados que te permiten unir docenas de golpes.
+
+Storywise, el juego te pone en la piel de un personaje fallecido entre una galería de varios personajes igualmente muertos que compiten en el infierno en un torneo patrocinado por el propio Lucifer con el gran premio de regresar al plano mortal.
+
+Los personajes incluyen la cantidad estándar de artistas marciales "reales" como el clon de Bruce Lee y la dominatrix, así como algunos personajes de fantasía como demonios, vikingos, etc., cada uno con su propia variedad de movimientos especiales, combos y movimientos finales.
+
+Gráficamente, el juego presenta algunos trucos ingeniosos. Los fondos consisten en un FMV en bucle y sprites pre-renderizados con efectos pirotécnicos, reflejos de agua, etc., la cámara acerca y aleja a los luchadores, etc.|https://www.mobygames.com/images/covers/s/390973-pray-for-death-linux-front-cover.jpg|
+Super Rocket Shootout|Oddly Shaped Pixels|2017|Peleas, |Linux, Macintosh, Nintendo Switch, Windows|Los gemelos nunca lo tienen fácil, ¡y no es diferente para Maurice y El Bruto! Frustrados por su incapacidad para ejecutar sus robos bancarios elaboradamente planificados, se pelean y discuten solo de la forma en que los hermanos pueden hacerlo, dejando un rastro de caos y destrucción detrás de ellos.
+
+SUPER ROCKET SHOOTOUT es un frenético y divertido juego de lucha de pixelart en 2D, que mezcla plataformas y mecánicas de lucha para hasta 4 jugadores (CPU o multijugador local). El sistema de combate es accesible y profundo, con movimientos, combos, súper ataques, contraataques, armas adicionales y mucho más inducidos por el jetpack.
+Jetpack, armas y explosiones
+
+    Domina tu jetpack y deslízate justo detrás de tus enemigos.
+    Usa tu escopeta a distancia o cuerpo a cuerpo.
+    Lanza misiles autoguiados, bumeranes, bombas de teletransporte y muchas más armas locas.
+
+Sistema de lucha profundo
+    Usa tu escudo sabiamente, lanza bloques perfectos.
+    Construye combos y llena tu súper medidor.
+    Lanza devastadores Super Moves, Super Attacks y Counters.
+
+Mucho contenido
+    Modo historia atractivo, modo multijugador local, juego en equipo.
+    8 personajes jugables con cada uno sus propias habilidades y Super Attack.
+    8 etapas interactivas y destructibles.
+    Montones de logros y armas extra desbloqueables.
+
+Super Rocket Shootout es una excelente manera de pasar el rato con amigos y disfrutar de los encantadores personajes del juego, ¡así como una salida perfecta para liberar cualquier frustración reprimida!
+
+Super Rocket Shootout fue desarrollado por Oddly Shaped Pixels, un estudio de desarrollo unipersonal con sede mundial en Lyon, Francia.|https://www.mobygames.com/images/covers/s/469433-super-rocket-shootout-linux-front-cover.jpg|
+Wishmere|Crayder Studios|2017|Peleas, Acción|Linux, Macintosh, Windows|Wishmere es un juego de lucha de luchadores que te da el poder y la creatividad para pelear tus batallas a tu manera. Lucha en un mundo donde los 'Wishmere', una antigua orden de héroes elegidos por el destino, se interponen entre la malévola Duda y su conquista mundial. ¡Juega con amigos en partidas locales, descubre la historia de Wishmere o sobrevive y conquista más de 30 mapas de desafío!
+
+¿Quieres mojarte los pies y preparar los puños? ¡Prueba la demostración gratuita de Steam!
+
+Caracteristicas
+
+    Juega a tu manera: variedad de modos de juego con todas las funciones para cada tipo de jugador: un jugador, local versus y cooperativo.
+    Entradas fáciles: todos los ataques; Los normales, las habilidades y los superhéroes se pueden realizar presionando una dirección y un botón, sin movimientos complejos, ¡concéntrate en jugar!
+    Fácil de jugar, difícil de dominar: las entradas fáciles te permiten comenzar a correr, pero cargado de un juego profundo y gratificante.
+    Destino: dobla el tiempo y capitalízalo liberando tus poderes de manipulación del tiempo.
+    Hasta 4 jugadores: juega versus o cooperativo con amigos hasta 4 jugadores.
+
+Caracteres
+Con un sistema de lucha profundo y una gran variedad de movimientos, Wishmere brinda a los jugadores creatividad para expresarse a través de su estilo de juego. Las entradas fáciles y los tutoriales detallados facilitan a los recién llegados al género de juegos de lucha / luchadores, mientras que la profundidad subyacente les brinda a los veteranos del género descubrimientos gratificantes.|https://www.mobygames.com/game/linux/wishmere/cover-art/gameCoverId,442808/|
+
+
+
+Skullgirls|Lab Zero Games|2016|Peleas, Acción|Xbox One, Linux, Macintosh, PlayStation 3, Windows, Xbox 360|Skullgirls es un juego de lucha en 2D con un elenco de ocho luchadores jugables. Además del modo de arcade aleatorio y los modos de historia, el juego también incluye juego local, juego de torneo, juego rápido de partido clasificado y juego de lobby, el último de los dos en el modo multijugador en línea.
+
+En el juego arcade o multijugador, el jugador puede seleccionar si quiere un equipo de dos luchadores con su salud dividida por la mitad, un equipo de tres luchadores con su salud dividida en un tercero o un solo luchador poderoso.|https://www.mobygames.com/game/xbox-one/skullgirls/cover-art/gameCoverId,351645/|
+UFC|Electronic Arts Canada, SkyBox Labs Inc|2014|Peleas, Deporte|Xbox One, PlayStation 4|EA Sports UFC is a mixed martial arts game. The gameplay is mainly the same as many other UFC games, including UFC Undisputed 3. Although the AI has been changed to accommodate for more changes mid-game to strategies to feel like more realistic fights, the fights mainly play out the same.
+
+The game features a new full-body deformation system. So, when a character kicks an other character, the flesh moves according to the impact made by the kick. In other games, The body of the character taking the blow wouldn't react in such a way.
+
+The game features 97 UFC fighters as playable characters, including Royce Gracie and Bruce Lee as bonus fighters. Another 22 fighters have been added through the course of 2014, through title updates and dlc. The game has both female and male wrestlers. Although the male wrestlers vary from Heavyweight to Flyweight, the women only fall into the category Women's Bantamweight. All in-game characters have been modelled after 3D scans of the actual players.
+
+The soundtrack for the game features a lot of different singers and bands, including Linkin Park, Diddy - Dirty Money, Band of Skulls, Imagine Dragons, Rick Ross, and 3Ball MTY.|https://www.mobygames.com/images/covers/s/300077-ufc-xbox-one-front-cover.jpg|
+Strength of the Sword: Ultimate |Ivent Games Ltd.|2019|Peleas, Arcade, Acción, Rol (RPG)|Xbox One, PlayStation 4, Windows |¡Un juego de lucha combinado con un BRAWLER!
+¡Con una espada enorme, un lanzacohetes y un LANZALAMAS!
+
+El juego es un juego de acción de estilo arcade en tercera persona en 3D que combina el combate táctico y basado en habilidades de un luchador con la progresión, las probabilidades abrumadoras y las increíbles batallas contra jefes de un luchador de la vieja escuela.|https://www.mobygames.com/images/covers/s/587280-strength-of-the-sword-ultimate-xbox-one-front-cover.jpg|
+Savage Reign|SNK Corporation|2018|Peleas, Acción, Arcade|Xbox One, Arcade, Neo Geo, Neo Geo CD, Nintendo Switch, PlayStation 4, Wii |El malvado Rey León se ha coronado a sí mismo como el maestro de Fuun-Ken, un nuevo estilo de artes marciales que incluye lanzar armas además del combate cuerpo a cuerpo. Esto no le sienta bien al resto de los luchadores de Fuun-Ken en todo el mundo, por lo que todos deciden golpearse entre sí en las clásicas peleas de 2 rondas para decidir quién se enfrentará al propio Rey León.
+
+Savage Reign es un luchador 2D uno a uno en el que seleccionas tu personaje e intentas derrotar a todos los retadores usando tus ataques básicos y movimientos especiales. El juego cuenta con 2 planos horizontales diferentes a los que los personajes pueden saltar libremente para evitar ataques al estilo Fatal Fury. Sin embargo, no puedes escapar por completo, ya que todos los personajes tienen un arma arrojadiza que pueden usar de diferentes maneras para alcanzar a los demás sin importar dónde se encuentren.|https://www.mobygames.com/images/covers/s/517054-savage-reign-xbox-one-front-cover.jpg|
+Ninja Master's|ADK Corporation|2019|Peleas, Acción, Arcade|Xbox One, Arcade, Neo Geo, Neo Geo CD, Nintendo Switch, PlayStation 4, Wii, Windows Apps|Otro juego de lucha uno a uno directamente de las salas de juegos para Neo Geo. Ninja Master's [sic] está ambientada en el Japón feudal y cuenta la historia de 10 ninjas únicos que luchan entre sí por sus propias razones personales y la oportunidad de derrotar al malvado Nobunaga y devolver la paz a Japón.
+
+Como se esperaba para el género, el juego enfrenta a tu personaje seleccionado contra una serie de oponentes en partidas al mejor de tres rondas, con el objetivo de agotar la barra de salud de tu oponente con tus ataques básicos, movimientos especiales (activados por movimientos de control específicos ) y supermovimientos (que dependen de un medidor de potencia). Todos los personajes de Ninja Master luchan con el arma que elijan, pero puedes elegir libremente guardar tu arma e ir mano a mano. Esto no tiene un impacto importante en la velocidad o el poder de ataque, pero cambia los conjuntos de movimientos de manera significativa, incluso cambiando la forma en que funcionan los ataques básicos.
+
+Utiliza gráficos 2D basados en sprites y presenta una jugabilidad 1P o 2P vs.|https://www.mobygames.com/images/covers/s/533697-ninja-master-s-windows-apps-front-cover.jpg|
+Nidhogg II|Messhof LLC|2018|Peleas, Acción, Plataforma|Xbox One, Macintosh, Nintendo Switch, PlayStation 4, Windows |¡La sierpe ha regresado y debe alimentarse! Deshágase de sus vestidos y pinte las paredes con la carne de sus enemigos, porque solo uno puede ser digno de sacrificio.
+
+Las reglas son sencillas. Llega al otro lado y mata a cualquiera que se interponga en tu camino. Parada hábilmente y desgarre sus gargantas, acribillar sus entrañas con flechas o aplastar sus cerebros entre los dedos de los pies. A la sierpe no le importa la caballerosidad.
+
+Secuela del éxito indie de 2014, Nidhogg 2 se basa en el galardonado juego de su predecesor con nuevas armas que manejar y niveles que dominar, personalización de personajes de la cabeza a los pies y el arte cautivantemente grotesco de Toby Dixon.
+
+Y, con música de artistas como Mux Mool, Geotic, Doseone, Osborne y Daedelus, Nidhogg 2 tiene una banda sonora tan buena que incluso las pantallas del menú son increíbles.
+Características del juego:
+
+    Desafía a la IA oa un amigo en combate 1v1.
+    Lucha por el primer lugar en torneos de 8 jugadores.
+    Domina los rasgos distintivos de cuatro armas.
+    Ponte elegante con la personalización completa de los personajes.
+    Diez etapas desde los castillos hasta las entrañas de Nidhogg.
+    Modifica las reglas con más de 10 variables de juego diferentes.
+    Conéctate en línea con emparejamientos y juegos privados.|https://www.mobygames.com/images/covers/s/495045-nidhogg-ii-xbox-one-front-cover.jpg|
+Black & White Bushido |Good Catch Games|2017|Peleas, Acción, Plataforma|Xbox One, Macintosh, Nintendo Switch, PlayStation 4, Windows|Black & White Bushido es un juego de lucha en la arena entre samuráis de luces y sombras. Lucha por el control de la luz o la oscuridad en múltiples escenarios, ocultándote de tus enemigos y atacando cuando menos lo esperan.
+
+Lucha contra oponentes controlados por computadora o lucha contra tus amigos en un frenético multijugador local para cuatro jugadores. Domina el campo de batalla en Capture the Flag o aplasta a tus enemigos en Team Deathmatch.
+
+Caracteristicas
+
+     Cinco arenas diferentes para luchar
+     Multijugador local para 4 jugadores
+     Modo de un jugador contra oponentes de la IA
+     Modos Deathmatch por equipos y Capturar la bandera
+     Escóndete a plena vista o coloca trampas para tus enemigos|https://www.mobygames.com/images/covers/s/475129-black-white-bushido-xbox-one-front-cover.jpg|
+Brawlhalla |Blue Mammoth Games|2018|Peleas, Acción|Xbox One, Android, iPad, iPhone, Macintosh, Nintendo Switch, PlayStation 4, Windows |Brawlhalla: un campo de batalla eterna donde los mejores guerreros de la historia se pelean para demostrar quién es el mejor que alguna vez fue, es o será. Cada partido es una prueba épica de habilidad, velocidad y fuerza, y cada victoria aporta gloria adicional y derechos de fanfarronear a los ganadores.
+
+Estas fiestas de babosas están saladas con poderosas armas y artilugios. ¡Los luchadores se apresuran a agarrar espadas, hachas, martillos, desintegradores, lanzas de cohetes y más! Cada arma cambia tu estilo de juego y tus opciones. Dispositivos como minas, bombas y esferas con púas añaden aún más peligro a la mezcla, permitiendo que los luchadores cambien el curso de la batalla con un lanzamiento oportuno o una trampa cuidadosamente colocada.
+
+Brawlhalla es un juego de lucha de plataformas 2D gratuito que incluye modos para un jugador / cooperativo en línea y locales.
+
+    Clasificados en línea 1 contra 1: una prueba personal de habilidad en la que te enfrentas a un solo oponente para reclamar niveles incalculables de gloria personal en Brawlhalla.
+    2 contra 2 en línea: refuerza tus filas con un amigo para demostrar tu temple, ingenio y trabajo en equipo en frenéticas batallas 2 contra 2.
+    4 jugadores en línea gratis para todos: partidas igualadas o casuales en las que participan cuatro luchadores, pero solo uno puede ganar.
+    8 jugadores 4v4 y FFA - Porque lo único mejor que cuatro leyendas compitiendo por el derecho de fanfarronear es ocho leyendas luchando por el derecho de fanfarronear.
+    Local gratis para todos: hasta 4 jugadores pueden jugar en modo gratuito para todos en una computadora, perfecto para enfrentamientos amistosos.
+    Equipos personalizados locales: forme un equipo en su máquina local, agregando hasta 4 bots a la mezcla para el caos en el nivel de la sala de estar.
+    Un jugador local: enfréntate a los bots en una serie de torneos de tres juegos. Perfecto para calentamientos o amoladoras de puntuación.
+    Modos de juego alternativos: Brawlball, Bombsketball y más proporcionan modos de juego alternativos "casual", "solo por diversión", con objetivos completamente diferentes y la misma competencia.
+
+
+¡Acceso anticipado a Open Beta disponible ahora gratis!
+
+Brawlhalla siempre será 100% gratis para jugar, sin ventajas de pago para ganar y sin compras en el juego que te alejen de la acción. En Open Beta, hay algunas cosas en las que continuaremos mejorando, y algunas cosas a las que tendrás acceso especial como jugador que se une a nosotros en Open Beta.
+
+Esto es lo que puede esperar si se involucra con Early Access hoy
+
+    ¡Acceso inmediato a este divertido juego!
+    Modos de juego en línea, personalizados, clasificados y locales.
+    Un montón de etapas para luchar con siete designadas solo para batallas 1v1.
+    Más de 25 leyendas para elegir y una rotación semanal gratuita de 6 personajes, desbloqueable con el oro obtenido al jugar el juego.
+    Movimientos exclusivos, combinaciones de armas y estadísticas para cada personaje.
+    Temporadas clasificadas cada tres meses con recompensas estacionales por jugar clasificatorias.
+    Loco. Retraso. Funciones faltantes. Cambios abruptos y nerfs (probablemente en tus armas favoritas).
+    Un flujo constante de nuevas funciones, ajustes de equilibrio y leyendas para hacer que el juego sea cada vez mejor.
+    ¡Desarrolladores entusiasmados activos en los foros escuchando ansiosamente lo que piensas!
+    Nuestro eterno agradecimiento (eres nuestro favorito).|https://www.mobygames.com/images/covers/s/520933-brawlhalla-xbox-one-front-cover.jpg|
+Brawlout|Angry Mob Games|2018|Peleas, Acción, Plataforma|Xbox One, Nintendo Switch, PlayStation 4, Windows|Brawlout tiene un gran impacto con los modos de juego en línea y en el sofá, combinando la mecánica del luchador de plataformas y el juego de lucha tradicional en una batalla real elegante y fluida.
+
+En lugar de batallas defensivas de ritmo lento, Brawlout hace todo lo posible con las acrobacias aéreas ultrarrápidas por las que los luchadores de plataformas son famosos.
+
+Al lograr el equilibrio entre la creciente escena competitiva y las raíces de los juegos de fiesta del género, Brawlout espera atender al luchador de plataformas veterano, al fan casual y al recién llegado que busca dejar su huella.
+
+Cada personaje de Brawlout tiene su propio estilo de juego único, que atiende a arquetipos de personajes específicos que se ven en otros luchadores. Tanto si eres un luchador acérrimo como si eres un demonio que corre, hay un luchador para ti en Brawlout.
+
+Actualmente hay seis personajes originales y dos personajes independientes populares para elegir que permiten estilos de juego variados. Además de los aspectos cosméticos, cada personaje original de Brawlout tiene tres variantes; versiones alternativas del personaje con diferentes estadísticas, atuendos e incluso nuevos movimientos. Con estas variantes, el elenco de Brawlout cuenta con 18 luchadores individuales. Encuentra el luchador y la variante adecuados para ti y destrúyelos en el campo de batalla.
+
+Combinado con técnicas de movimiento familiares como wavedashing y airdodging, Brawlout agrega algunas mecánicas adicionales que se ven en otros juegos de lucha. El Rage Meter se acumula a medida que infliges y recibes daño, lo que te permite romper combos con Rage Burst o desatar el infierno con el modo Rage. El Rage Burst empuja a los oponentes hacia atrás, rompiendo sus combos y permitiendo a los jugadores crear un respiro a costa de la mitad de su Rage Meter. Si el medidor se llena, puede activar el modo Rage, aumentando el retroceso que inflige mientras reduce la cantidad que toma.
+
+En cuanto a los modos, Brawlout tiene todo lo que esperarías de un luchador de plataformas normal y algo más. Hasta cuatro jugadores pueden competir en batallas cronometradas, acciones o en equipo:
+
+Todo en el mismo dispositivo
+
+Cada uno con su propio dispositivo, sin conexión a Internet, jugando cerca
+
+En línea, ya sea con amigos u otros jugadores de Brawlout
+
+Los oponentes de la IA también están disponibles si quieres practicar los combos de tu equipo con un amigo o si necesitas completar un juego gratis para todos. Entrena con tutoriales avanzados o entra por ti mismo en las desafiantes Torres Arcade.|https://www.mobygames.com/images/covers/s/501158-brawlout-xbox-one-front-cover.jpg|
+DC Universe Online |SOE Austin|2016|Peleas, Rol (RPG)|Xbox One, Nintendo Switch, PlayStation 3, PlayStation 4, Windows |Brainiac y sus secuaces robóticos están invadiendo la Tierra, y una guerra final entre superhéroes y villanos ha dejado a la humanidad indefensa. Desesperado, Lex Luthor viaja en el tiempo para advertir a sus enemigos y, al mismo tiempo, sembrar el planeta con semillas para crear nuevos héroes. Como uno de estos superhumanos recién transformados, los jugadores elegirán salvar el planeta de Brainiac por el bien de la humanidad o para sus propios fines nefastos.
+
+Como un MMO de acción en el Universo DC, DC Universe Online enfrentará a los jugadores o unos contra otros bajo la atenta mirada de los principales personajes de cómic. Al comenzar un personaje, los jugadores pueden elegir ser un héroe o un villano, con el tono y los detalles de sus misiones cambiando en consecuencia. A continuación, eligen un mentor: Superman, Batman o Wonder Woman para los héroes y Lex Luthor, The Joker o Circe para los villanos. Aunque los jugadores tomarán misiones de muchos personajes diferentes de DC, este mentor guiará su progreso general hasta el límite de nivel.
+
+La personalización de los personajes se basa entonces en la apariencia y en algunos arquetipos específicos que coinciden con los roles tradicionales de MMO. Los poderes de Naturaleza y Hechicería evolucionan a roles de Sanador. Los artilugios y los poderes mentales evolucionan hacia roles de Control. Los poderes de Fuego y Hielo evolucionan a roles de Tanque. Cada poder tiene dos árboles que cambian ligeramente el rol final, y el jugador solo gana suficientes puntos de habilidad para llenar un árbol, o una combinación de ambos. Todos los roles también tienen la capacidad de realizar un rol de daño DPS, y los poderes cambian sus efectos en consecuencia. Los jugadores pueden cambiar entre los dos roles sobre la marcha, con configuraciones de energía personalizadas para cada uno.
+
+DC Universe no se basa en el tradicional combate MMO de "autoataque", sino que utiliza un sistema muy análogo a un juego de acción en tercera persona. Los jugadores pueden especializarse en varios estilos de armas, cada uno con un ataque cuerpo a cuerpo y a distancia. Las armas son generalmente más efectivas en un ataque que en el otro (es decir, armas a distancia, espadas para cuerpo a cuerpo). A medida que el jugador gana puntos de habilidad por progresar a través de los niveles de XP, puede gastar estos puntos en combos para sus diferentes estilos de armas, que dan ataques más fuertes o estados debilitados. Los efectos físicos adicionales permiten a los jugadores recoger objetos en el mundo y lanzarlos como armas. El resultado es que el jugador participa activamente en un combate básico, y no simplemente disparando poderes.
+
+Gotham City y Metropolis son las dos ubicaciones principales, con Justice League Watchtower (para héroes) y Hall of Doom (para villanos) actuando como zonas sociales seguras. Ambas ciudades tienen ubicaciones reconocibles de los cómics y una variedad de coleccionables ocultos para recompensar la exploración. Los jugadores pueden elegir entre supervelocidad, vuelo o acrobacias para escalar edificios y viajar por las ciudades. Una amplia variedad de otros lugares notables se recrean como arenas PvP, "Alertas" PvE o Incursiones al final del juego. Estos incluyen Arkham Asylum, Daily Planet, Batcave e incluso el Área 51.
+
+DC Universe tiene servidores PvE y PvP. Los jugadores siempre pueden ser atacados por miembros de la facción opuesta en servidores PvP, incluso en niveles inferiores. La mayoría de PvP tiene lugar en Arenas, donde los jugadores se colocan en mapas con un objetivo específico (como capturar y mantener zonas durante más tiempo que el equipo contrario). Las arenas estándar requieren que los jugadores usen sus propios personajes. Legend Arenas requiere que los jugadores usen un personaje DC familiar, con un grupo preestablecido de poderes (para que todos estén aproximadamente en pie de igualdad). Los personajes de Legends se desbloquean al completar misiones de colección dentro de las dos ciudades.
+
+Las misiones son el foco principal de DC Universe Online, y los distritos de la ciudad se configuran casi exclusivamente para apoyar conjuntos de misiones. Las líneas de búsqueda suelen durar de 4 a 5 misiones cada una, y envían al jugador a lo largo de ese distrito y a una guarida de jefes instanciada para el final. Al derrotar al jefe, los jugadores son recompensados ​​con una película de "Titular" dibujada por artistas de DC. Además de las misiones, los jugadores también pueden realizar misiones de recolección y "golpear" de los encargados de misiones dentro del distrito para obtener recompensas más pequeñas. Los jugadores también pueden detectar eventos aleatorios dentro de la ciudad e interceder, por lo que los villanos pueden notar que un civil pobre debe asaltar, o los héroes pueden salvar a los ciudadanos atrapados bajo los escombros.
+
+Las armaduras y armas con apariencia única caen de los enemigos o son recompensadas con misiones, y una vez que se ha usado un artículo, su "estilo" se agregará al panel de estilo de un personaje. Al seleccionar y bloquear estilos, los jugadores pueden cambiar el aspecto de la armadura o arma de su personaje, independientemente de cómo se vea el elemento con el que están equipados.
+
+Ambas versiones del juego admiten chat de voz y texto. Los jugadores pueden conectar un auricular o teclado USB a la PS3 y usarlos dentro del juego. Del mismo modo, la mayoría de los gamepads se pueden conectar a la PC y usar para controlar el juego. Aunque se planeó la integración multiplataforma, los jugadores de PC y PS3 juegan en servidores completamente separados.
+
+Aunque originalmente era un juego de suscripción mensual, DCUO se volvió gratis para jugar el 2 de noviembre de 2011. En el nivel de acceso más bajo, Gratis, un jugador puede tener 2|https://www.mobygames.com/images/covers/s/378133-dc-universe-online-xbox-one-front-cover.jpg|
+Marvel Vs. Capcom 3: Fate of Two Worlds|Capcom Co., Ltd., Eighting Co., Ltd.|2011|Peleas, Acción|PlayStation 3, Xbox 360|Doctor Doom y Dormammu, dos conocidos villanos de Marvel, unieron fuerzas con una variedad de otros villanos de Marvel con intenciones de invadir el universo de Capcom, pero cuando conocieron al sombrío Albert Wesker de la serie Resident Evil, decidieron unir sus dos Tierras en uno. Sin embargo, tal plan llamó la atención de Galactus, el famoso Devorador de Mundos. Sintiendo que se estaba preparando una catástrofe, hizo un plan propio: destruir ambos mundos. ¡Ahora los mejores personajes de los mundos de Marvel y Capcom, tanto héroes como villanos, deben detener esta amenaza inminente antes de que todo se pierda!
+
+Marvel vs.Capcom 3: Fate of Two Worlds es un juego de lucha centrado en muchos personajes bajo las licencias de Marvel y Capcom. Están divididos mitad y mitad entre personajes de Marvel y Capcom, y la lista presenta personajes que casi todos conocerán, como el Capitán América, Dante, Deadpool, Phoenix y muchos más. El juego tiene un modo en línea y fuera de línea. En este último, los jugadores pueden desafiar a la computadora (en Arcade o Versus), o desafiar a un amigo localmente, así como completar misiones para aprender los conjuntos de movimientos de los personajes. En el modo en línea, los jugadores pueden desafiar a amigos en línea y extraños al azar, así como completar eventos especiales. La historia es diferente para cada personaje en el modo Arcade, que tiene un equipo de tres personas elegido por el jugador para luchar en 6 batallas para llegar a la batalla final con Galactus. Si Galactus es derrotado, el jugador recibe el final del personaje que dio el golpe mortal. Cada final de personaje presenta sus propias motivaciones y ayuda a desbloquear los muchos extras que este juego tiene para ofrecer.|https://www.mobygames.com/images/covers/s/246119-marvel-vs-capcom-3-fate-of-two-worlds-playstation-3-front-cover.jpg|
+
+Age of Pirates: Caribbean Tales|Sea Dog|2006|Peleas, Rol (RPG), Simulación|Windows|Arrgh! ¿Alguna vez has querido vivir la vida de un pirata? Bueno, aquí tienes la oportunidad de lanzarte a esta simulación pirata. Juegas como Blaze, la imprudente cazadora de fortunas, o como Beatrice, la temeraria pelirroja. Vivirás la vida de un pirata: lucharás en sangrientas batallas con espadas en tierra y en barco, buscarás tesoros, te enfrentarás a otros barcos en el barco. La historia no es lineal, por lo que puedes irte a descubrir qué tan abierto es el juego. 16 barcos diferentes para elegir lo convierten en opciones estratégicas en el mar.
+
+Con los elementos de RPG puedes mejorar tus habilidades de capitanes, barcos, armas, tripulación y jugador. Hay muchos NPC y misiones para adquirir y emprender.
+
+Ayuda a un país o saquea una nación ... tú decides.|https://www.mobygames.com/images/covers/s/70297-age-of-pirates-caribbean-tales-windows-front-cover.jpg|
+The Black Heart|Andrés Borghi|2009|Peleas, Acción|Windows|The Black Heart es un juego de lucha 2D gratuito, basado en el motor MUGEN. La historia y los personajes están inspirados en historias de terror de películas o libros. Hay otro mundo aparte del nuestro, un lugar hostil arruinado por la guerra y el odio. Un mundo manchado de sangre ... El rey de este mundo ha sido asesinado. Su fuerza y ​​voluntad habrán desaparecido con el paso del tiempo, convirtiéndolo en un ser anciano e indefenso. Al final fue atacado por Final, una criatura muy poderosa que emergió del caos. En un solo ataque rompió el corazón del rey.
+
+El juego tiene seis personajes jugables: un niño fantasma loco, Peketo, obsesionado con el color rojo, la mujer araña Ananzi, hija del príncipe del otro mundo, Animus, un hombre inmortal que sufre, que ha sido encerrado dentro de una plancha. doncella durante más de 400 años, el monstruo gusano Shar-Makai, Hashi, miembro de una antigua raza de hombres de madera que fueron los principales trabajadores que dieron forma y construyeron la Tierra. Un Marruecos, un fantasma que yace dormido dentro de una antigua muñeca japonesa Creature Final es un personaje oculto. Cada personaje tiene varios movimientos: movimientos normales, movimientos especiales, súper movimientos, movimiento fatal y modo asesino.
+
+La jugabilidad es simple, el jugador debe derrotar a un oponente en un juego basado en botones de ataque de 6 botones, como muchos otros juegos de lucha. The Black Heart tiene ocho modos: historia, versus, historia de equipo, equipo versus, cooperativo de equipo, supervivencia, cooperativo de supervivencia y entrenamiento.|https://www.mobygames.com/images/covers/s/293705-the-black-heart-windows-front-cover.jpg|
+BlazBlue: Calamity Trigger|Arc System Works Co., Ltd.|2008|Peleas, Acción|Windows, Arcade, PlayStation 3, Windows Apps, Xbox 360 |BlazBlue: Calamity Trigger es un juego de lucha en 2D con 12 personajes, cada uno con personalidades, estilos de lucha y ventajas únicos. Durante el modo historia, cada personaje tiene su propia historia que se cuenta con diálogo entre peleas. Durante algunos de esos diálogos, el jugador tiene que elegir entre las respuestas que influyen en el final de la historia. Además, hay un modo arcade (lucha contra todos los personajes seguidos), ataque por puntuación y un modo multijugador.
+
+El sistema de lucha utiliza las opciones habituales de los juegos de lucha: hay ataques débiles, medios y fuertes. Ciertas combinaciones de botones dan como resultado ataques especiales específicos de personajes. Si el jugador logra lastimar a su oponente (o es golpeado), se llena una barra de energía especial. Si está lleno, puede desatar un ataque especialmente poderoso. También hay una barra de resistencia que disminuye durante el bloqueo: cuando está vacía, el personaje sufre un daño adicional.|https://www.mobygames.com/images/covers/s/282053-blazblue-calamity-trigger-windows-front-cover.jpg|
+The Broken Land |Ace Platinous Family Co., Ltd.|2000|Peleas, Rol (RPG)|Windows|Un juego de rol en el estilo de rastreo de mazmorras de Diablo. La historia básica implica que salvas el cielo (no la tierra) al volver a combinar las 5 piezas en las que se dividió el cielo en una batalla con los dioses y las fuerzas del mal. El juego es hack-and-slash con interacción limitada con NPC y comerciantes. Los personajes tienen actualizaciones limitadas disponibles para ellos al igual que las armas y armaduras. El juego fue lanzado sin un manual impreso (estaba incluido en el disco, pero era inexacto para el juego real).|https://www.mobygames.com/images/covers/s/470212-the-broken-land-windows-front-cover.jpg|
+CarJacker: Hotwired and Gone!|Kozmogames Inc.|2005|Peleas, Acción, Carreras, Disparo|Windows|CarJacker: ¡Hotwired y desaparecido! se inspira en gran medida en la serie Grand Theft Auto pero con una jugabilidad simplificada. El jugador comanda a un protagonista sin nombre en una ciudad sin nombre. Comenzando como taxista, pronto entra en contacto con un jefe del crimen para quien tiene que completar varias misiones. No hay una historia en el juego, sino que es una secuencia de diferentes tareas que se juegan una tras otra. El objetivo de cada misión se muestra en una pantalla de carga antes de comenzar.
+
+El juego ofrece un entorno de itinerancia libre en una sola ciudad con diferentes edificios y ubicaciones, tráfico y peatones. Durante las misiones el alcance es limitado porque todas las misiones tienen un límite de tiempo. Solo la misión de bonificación final, en la que el jugador recibe coches de lujo, se puede jugar sin restricciones. El jugador puede moverse a pie o en coches que pueden ser robados. El juego se controla desde una perspectiva en tercera persona con una vista interior opcional mientras se conduce un automóvil. El movimiento se realiza a través del teclado mientras que el mouse se usa para dirigir, hacer zoom y girar la cámara.
+
+Al realizar misiones o golpear a las personas, el jugador gana dinero en efectivo. Esto se puede usar para reparar un automóvil o obtener gasolina, ya que todos los automóviles tienen un suministro limitado. Esto se muestra en la esquina inferior derecha de la pantalla, mientras que la esquina inferior izquierda muestra un minimapa de la ciudad para ver gasolineras, objetivos o coches de policía cuando se ha instalado un rastreador. En las diferentes misiones, el jugador deberá robar coches, instalar rastreadores en los coches de la policía, competir con otro personaje, matar a toda una pandilla enemiga o escoltar al jefe. Mientras se mueve a pie, el protagonista puede golpear a otro personaje o usar cualquiera de las tres armas disponibles: una pistola, una pistola uzi o una llave inglesa. La llave también se puede usar para quitar las ruedas de los automóviles estacionados para inmovilizarlos.
+
+La ciudad está constantemente patrullada por la policía, en automóviles y a pie. No actúan sobre infracciones de tráfico o embestidas contra coches, sino que solo empiezan a molestar al jugador cuando atropella a personas inocentes, las golpea o embiste contra un coche de policía. El protagonista nunca es arrestado, en cambio lo derriban o embisten su auto hasta que explota. Los coches sufren daños visibles hasta que explotan, pero se pueden reparar en gasolineras a cambio de dinero en efectivo. A diferencia de los juegos de GTA, no hay nivel de búsqueda. Tan pronto como se atraiga la atención de la policía, toda la fuerza entrará en acción hasta que el jugador logre deshacerse de ellos. Mientras está a pie, es posible sobornar a un policía para que se vaya.
+
+El nivel de dificultad está bastante desequilibrado ya que la IA que conduce casi hace que sea imposible completar ciertas misiones. Los automóviles también se atascan regularmente detrás de los rincones de los edificios y los pasajeros a veces se niegan a entrar en los automóviles. Los coches de IA también solo se detendrán cuando otros coches los bloqueen y atropellarán al jugador de inmediato cuando no haya otros obstáculos. La ciudad existe en gran parte de edificios genéricos, con algunas ubicaciones distintas, como un cementerio y un distrito de China Town.|https://www.mobygames.com/images/covers/s/114951-carjacker-hotwired-and-gone-windows-front-cover.jpg|
+Chaos League |Cyanide S.A.|2005|Peleas, Deporte, Estrategia|Windows|Chaos League es un juego que combina elementos de juego de estrategia en tiempo real con acción, en un juego de deportes. El juego se juega en forma de un deporte híbrido de estilo futbolístico. Se eligen criaturas de fantasía de razas como trolls, elfos, demonios, etc. para formar los equipos, cada uno con sus propias habilidades. La acción es feroz y puede ser brutal, con más de 100 poderosos movimientos, hechizos y técnicas. El juego se puede jugar en tiempo real o por turnos. Compites por el trofeo definitivo en varios escenarios modelados en 3D con sus propios campos únicos. Los partidos se juegan con comentarios en vivo y se pueden reproducir.|https://www.mobygames.com/images/covers/s/51457-chaos-league-windows-front-cover.jpg|
+Crasher |Punchers Impact|2011|Peleas, Acción, Estrategia|Windows, Macintosh |Crasher es un juego de Arena de batalla en línea multijugador (MOBA). Su originalidad es el uso de vehículos que reemplaza a los héroes humanos por primera vez en este tipo de juegos.
+
+El juego incluye 18 vehículos en 6 clases diferentes. Cada vehículo posee sus habilidades y armas únicas.
+
+Hay 2 modos de juego:
+
+     El "Crasher Terrority Control" donde 2 equipos deben capturar y defender áreas del mapa.
+     El "Crasher Battle Arena" donde 2 equipos luchan hasta la muerte. No hay reaparición en este modo.
+
+La batalla en equipo tiene 2 configuraciones: 3vs3 y 5vs5.
+
+Al final de cada juego, cada competidor gana puntos de XP y nuevos elementos para progresar en la clasificación mundial.|https://www.mobygames.com/images/covers/s/277269-crasher-macintosh-front-cover.jpg|
+Crime Life: Gang Wars|Hothouse Creations Ltd.|2005|Peleas, Acción|Windows, PlayStation 2, Xbox|Crime Life es un juego de combate callejero basado en una misión que sigue una historia que involucra a múltiples bandas, policías corruptos y traición desde adentro.
+
+El jugador controla a Tre, un nuevo miembro de la pandilla Outlawz en su ascenso a la cima dentro de la ciudad ficticia de Grand Central. Los Outlawz enfrentan problemas cuando las bandas rivales Headhunterz y KYC unen fuerzas contra ellos. Los miembros de la banda de rap D12 presentan sus voces y semejanzas como los miembros clave de la banda enemiga Headhunterz.
+
+La jugabilidad está influenciada por los beat-em-ups de la vieja escuela, lo que significa que el combate cuerpo a cuerpo es el enfoque principal aquí. Además de contar con veinticinco misiones basadas en historias, Crime Life también le da al jugador la libertad de explorar el mundo del juego y experimentar mini-misiones que incluyen luchar mientras está borracho y tomar el control del territorio rival.|https://www.mobygames.com/images/covers/s/235898-crime-life-gang-wars-windows-front-cover.jpg|
+Dark Rift|Kronos Digital Entertainment|1997|Peleas, Acción|Windows, Nintendo 64|The cosmos is controlled by two Prime Elements, known as "Core" and "Dark". Each is possessed by a tyrant who is in perpetual search of the third element, the Light, which would grant its owner tremendous power. Sonork Nezom, the carrier of Core Element, has organized a fighting tournament, with Core Element itself being the prize. He hopes that the carrier of the Light Element will be among the participants. He plans then to strike and gain possession of all the elements at once. But Lord Demon Demitron, the carrier of the Dark Element, has other plans...
+
+In this one-on-one fighting game, the player can take any of the eight playable participants through the tournament mode. Once the selected hero has defeated his opponents, he will have to face battles against Sonork and Demitron. A practice mode is also available. During the fights the player can use standard attacks common for all the characters - vertical and horizontal punches, kicks, running jumps, etc. Each character also possesses an arsenal of special techniques, which can be executed by pressing different buttons in rapid succession.|https://www.mobygames.com/images/covers/s/8895-dark-rift-windows-front-cover.jpg|
+Dave: Accelerate|fan game|2010|Peleas, Acción|Windows|Dave: Accelerate es un juego de acción, un juego de fans inspirado en el webcomic "Homestuck". El juego recrea uno de los momentos del cómic, cuando el personaje Dave Strider libra una batalla contra monstruos en una tierra hecha de engranajes gigantes que flotan sobre lava.
+
+Armado con una espada, Dave vaga por los engranajes, capaz de golpear a sus enemigos con una variedad de movimientos, así como esquivar y rodar fuera de (o hacia) el camino del daño. Dave también tiene la capacidad de viajar en el tiempo al pasado para luchar retroactivamente junto a su yo pasado (desde la perspectiva del jugador, esto significa que el mundo entero "rebobina", creando un Dave pasado que repite las acciones anteriores del jugador y desaparece después algún tiempo.) Hay un medidor de "Stride"; Stride alto significa que Dave puede encadenar ataques casi indefinidamente, mientras que Stride bajo lo obliga a detenerse después de unos pocos o un solo ataque. Si la salud de Dave se agota debido a los ataques enemigos, muere.
+
+A lo largo del juego, Dave está acompañado por el espeluznante Calsprite, parecido a un fantasma, que ayuda a luchar contra los enemigos y ocasionalmente cura a Dave.
+
+Los enemigos caídos dejan atrás "molienda", que da puntuación cuando se recolecta, para ser visto en la pantalla de puntuación que aparece una vez que se alcanza el objetivo final o cuando Dave muere.|https://www.mobygames.com/images/shots/s/519737-dave-accelerate-windows-screenshot-help-screen-with-all-the.jpg|
+Dead of Knight |Team Tilt|2012|Peleas, Acción|Windows|Dead of Knight es un juego de slasher 3D gratuito. Controlas a Dead Knight mientras luchas contra demonios a través de varios niveles (la mazmorra, el patio, el pasillo y la sala del trono), todos llenos de secuaces, en una búsqueda para matar al rey malvado que ha corrompido esta tierra.
+
+El Caballero puede cortar enemigos y esquivar ataques. Para reponer la vida, puede agarrar a un enemigo y llevar la energía del enemigo a su guante. El Caballero Muerto debe enfrentarse a cuatro tipos de enemigos diferentes (dos tipos de ghouls, banshee y caballeros) y un jefe final.|https://www.mobygames.com/images/shots/s/643573-dead-of-knight-windows-screenshot-loading.jpg|
+Dexter's Laboratory: Science Ain't Fair |Intelligent Games Ltd|2001|Peleas, Acción, Rompecabezas|Windows|En El laboratorio de Dexter: La ciencia no es justa, Dee Dee se ha metido en el laboratorio de su hermano (¡de nuevo!), Pero esta vez realmente ha causado problemas. ¡No solo destruyó su proyecto científico, de alguna manera su intromisión ha hecho que Dexter se reduzca a tres pulgadas de alto! ¿Cómo diablos se va a preparar ahora para la feria de ciencias? ¡No puede dejar que Mandark gane! El chico genio debe descubrir cómo volver a su tamaño normal o todo saldrá mal en su mundo.
+
+Hay seis niveles de estilo arcade en el modo Historia que se juegan en orden. Los jugadores asumen el papel de Dexter y lo guían por su casa mientras esquivan bifurcaciones, burbujas y otros peligros hasta que llega a su laboratorio. Dexter puede usar un escudo similar a una burbuja para protegerlo de algunos peligros. Allí debe terminar su proyecto de feria de ciencias construyendo un robot. Además de construir un robot, los jugadores construirán otros artilugios, harán volar a Dexter y su helicóptero de mochila y recolectarán piezas de bonificación. Cuatro minijuegos permiten a los jugadores aplastar insectos, disparar a monos enojados y tomar fotos secretas del laboratorio de Mandark.
+
+El juego cuenta con un estudio de impresión y un creador de dibujos animados para imprimir imágenes, hacer tarjetas y otros proyectos, así como diseñar dibujos animados personalizados. La función de guardado automático del modo Historia guarda el progreso y permite reproducir los niveles completados en cualquier momento.|https://www.mobygames.com/images/covers/s/242902-dexter-s-laboratory-science-ain-t-fair-windows-front-cover.jpg|
+Eternal Champions|SEGA Interactive Development Division|2010|Peleas, Acción|Windows, Genesis, Linux, Macintosh, Wii |De varios períodos de tiempo del pasado, presente y futuro, nueve combatientes asesinados de manera injusta se encuentran con una segunda oportunidad de vida. Un ser alienígena, conocido solo como el Campeón Eterno, trae de vuelta a los luchadores a una competencia por una razón: encontrar uno entre ellos digno de ser resucitado, dándoles la oportunidad de evitar su muerte e inclinar la balanza entre el bien y el mal.
+
+Los luchadores pertenecen a diferentes épocas de la historia de la Tierra: Larcen, el gato ladrón. Jetta, el acróbata del circo. Blade, el cazarrecompensas futurista. Midknight, el bioquímico vampírico. Rax, el cyborg. Shadow, el asesino corporativo. Slash, el neandertal. Trident, un guerrero atlante. Y Xavier, un brujo y alquimista.
+
+El juego es un título de lucha uno contra uno en 2D. Cada personaje admite una gran cantidad de movimientos especiales y estilos de lucha individuales. Al final de un partido, los jugadores tienen la opción de desatar un "Overkill" sobre un oponente derrotado, matando brutalmente al perdedor de una manera gráfica, o la opción de usar el fondo en sí para matar en el escenario.|https://www.mobygames.com/images/covers/s/198168-eternal-champions-windows-front-cover.jpg|
+Gun |Neversoft Entertainment, Inc.|2005|Peleas, Acción, Carreras, Disparo, Rol (RPG), Juegos de mesa|Windows, GameCube, PlayStation 2, Xbox, Xbox 360 |El Salvaje Oeste se encuentra con Grand Theft Auto en este juego de acción de itinerancia libre. Ambientada en 1870, eres Colton White, un joven pistolero cuyo padre es asesinado por una tribu india dirigida por el reverendo Reed. Justo antes de fallecer, tu padre te entrega una muestra y te revela que no eres su hijo. Con el juramento de vengar su muerte, persigues a los asesinos y desentrañas los secretos que rodean al objeto. Aunque esté solo, se pueden formar alianzas temporales con la gente del pueblo, apaches y miembros de la pandilla, pero cuídese las espaldas, ya que pueden volverse en su contra.
+
+La historia principal, escrita por el guionista de Hollywood Randall Jahnson (La máscara del Zorro, 1998) es lineal. Tendrás que luchar en duelos, defender pueblos contra bandidos, ayudar a construir vías de tren, intervenir en varios conflictos y matar jefes fuertemente armados. También hay muchas misiones secundarias o formas alternativas de ganar dinero. Puede jugar al póquer en el casino, ayudar a los granjeros con su ganado, ayudar al sheriff local o entregar artículos con el pony express. Otras posibilidades incluyen la caza de recompensas, la caza regular de animales raros, la extracción de oro y varias misiones de rescate.
+
+Los elementos de los juegos de rol implican adquirir y mejorar habilidades, como QuickDraw (que se muestra en Bullet Time), disparo de zoom, combate cuerpo a cuerpo, precisión mejorada, la capacidad de lanzar hachas y equipar y mejorar estratégicamente diferentes armas. Hay armas de mano (cuchillos, hachas de guerra, bayonetas), armas de tiro con arco, objetos explosivos arrojables y armas normales, como rifles de francotirador, potros y cabrestantes. Algunos se obtienen durante las misiones, otros se pueden comprar y vender por dinero en efectivo en las ciudades.
+
+La referencia GTA se refleja en el principal medio de transporte: los caballos. Hay diferentes animales para encontrar con amplias opciones de movimiento. Realiza persecuciones salvajes, corre, galopa, derrapa o pisotea a tus enemigos. Dales un poco de descanso de vez en cuando, o los desgastarás hasta la muerte. En el combate cuerpo a cuerpo, puedes hacer maniobras de balanceo, usar objetos para cubrirte, agarrar a tus oponentes e incluso arrancarles el cuero cabelludo. Eres libre de alejarte de la historia principal y explorar el paisaje gigante, con pueblos, desiertos, montañas, naturaleza y cuevas.|https://www.mobygames.com/images/covers/s/83590-gun-windows-front-cover.jpg|
+Tortuga: Two Treasures|ASCARON Entertainment GmbH|2007|Peleas, Acción|Windows|Tortuga: Two Treasures es un juego de acción y aventuras con temática pirata. Los jugadores asumen el papel de Thomas "Hawk" Blythe, capitán del Hawkwind, su fragata del siglo XVIII.
+
+Hawk es un bribón de capa y espada muy parecido a Jack Sparrow (Piratas del Caribe): un pícaro encantador y un mujeriego con tendencia a meterse en problemas. Con Sangua, su novia "sacerdotisa vudú", Hawk zarpa en alta mar para recuperar el legendario tesoro de Sir Henry Morgan para nada menos que el famoso pirata Barbanegra.
+
+Los jugadores estarán al mando de la tripulación del Hawkwind durante feroces batallas oceánicas de barco a barco contra la Armada británica, barcos fantasmas y otros barcos piratas. Levante y baje las velas; dispara los cañones; aborda barcos enemigos y lucha en cubierta con espadas y otras armas cuerpo a cuerpo. Los elementos comerciales ofrecen una forma de reabastecer el barco con cañones y municiones, o para descargar el botín de las actividades de saqueo recientes. Las situaciones de aventura y las misiones avanzan en la historia.
+
+El juego se controla mediante el teclado y el mouse, o elige usar un controlador de gamepad.|https://www.mobygames.com/images/covers/s/107544-tortuga-two-treasures-windows-front-cover.jpg|

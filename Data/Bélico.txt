@@ -1,0 +1,226 @@
+Worms: Battlegrounds|Team17 Digital Limited|2014|Bélico, Estrategia|PlayStation 4, Xbox One|El juego presenta un modo de jugador único y multijugador. El modo para un jugador tiene lugar en un museo de historia mundial. El malvado villano, Lord Crowley-Mesmer, quiere apoderarse del mundo y el jugador intenta detenerlo. El modo de juego para un jugador no solo gira en torno a matar gusanos enemigos, sino también a rescatar a los amigos y abrirse camino a través del nivel usando cuerdas ninja, saltando y colocando barras de metal.
+
+El modo de juego multijugador es muy parecido a cualquier otro juego de Worms. Ambos jugadores obtienen un conjunto de gusanos. Estos gusanos se colocan al azar en un mapa. El objetivo es matar a los gusanos enemigos antes de que el enemigo pueda hacer lo mismo. El modo multijugador se puede jugar de forma local y a través de Internet. El juego incluye 65 armas y elementos de utilidad diferentes, de los cuales diez son nuevas para la serie. Entre esos diez está la pistola de rayos para teletransportarse a otras partes del mapa.
+
+Los jugadores pueden personalizar sus gusanos con varios elementos, incluidos accesorios para la cabeza y artículos de mano. Se pueden crear y unirse clanes para el modo multijugador y los jugadores pueden crear sus propios mapas para jugar. Los mapas se pueden personalizar eligiendo el fondo, los elementos que aparecen en el mapa, donde se genera el agua, etc.|https://www.mobygames.com/images/covers/s/306909-worms-battlegrounds-playstation-4-front-cover.jpg|
+Worms|Team17 Software Limited|1995|Bélico, Estrategia|Amiga, Amiga CD32, DOS, Genesis, Jaguar, Macintosh, PlayStation, SEGA Saturn, SNES|Worms es un juego de estrategia por turnos. Cuenta con hasta 4 equipos de 4 gusanos, con el objetivo de destruir a los demás en un terreno generado. Cada gusano tiene 100 puntos de golpe y muere cuando sus puntos de golpe caen a 0. Al morir, un gusano explota y daña a todos los que lo rodean.
+
+El juego se basa en turnos. Cada turno, el jugador puede controlar un gusano específico de su equipo. El gusano puede gatear de izquierda a derecha o saltar. Sin embargo, hay un límite de tiempo para hacer un movimiento; además, si el gusano cae desde una gran altura, pierde salud y el turno termina inmediatamente; y si un gusano cae al agua o fuera de la pantalla, muere. En cada turno, un gusano también puede realizar un solo ataque: el jugador puede apuntar hacia arriba y hacia abajo, elegir un arma y luego disparar. Después de atacar, el turno termina.
+
+Hay muchas armas disponibles, las estándar como bazucas (que se ven afectadas por la configuración del viento (aleatoria) y la gravedad) y granadas. Los otros incluyen un Fire Punch, dinamita, ataques aéreos y servicios públicos como cuerdas y vigas.
+
+Hay 10 estilos de terreno, que van desde bosques y desiertos hasta Candy Land y la luna (con la gravedad afectada). Los disparos dejan cráteres en el suelo y se pueden formar túneles complejos.|https://www.mobygames.com/game/gameboy/worms/cover-art/gameCoverId,30291/|
+Dirty Drivin'|Specular Interactive, Inc.|2011|Bélico, Arcade, Disparo|Arcade|Un juego de carreras de combate en el que los jugadores pueden personalizar sus vehículos con armas y potenciadores. Cuenta con 14 pistas, 10 autos y cientos de actualizaciones. Conectable hasta 8 gabinetes.||
+Guided Missile |Midway Mfg. Co.|1980|Bélico, Acción, Arcade|Arcade |Guided Missile es un juego de arcade para uno o dos jugadores donde el objetivo es alcanzar varios objetivos con misiles. Con solo presionar un botón, los misiles se lanzan desde una posición estacionaria en la parte inferior de la pantalla y cuando llega a la parte superior comienza a descender hacia el suelo. En el camino hacia arriba, el jugador no tiene control de su dirección, pero cuando comienza a descender, el jugador puede dirigirlo moviendo el joystick hacia la izquierda o hacia la derecha. Solo cuando el misil está en camino de regreso es posible alcanzar un objetivo. Hay seis objetivos diferentes (camiones, barcos, helicópteros, tanques, aviones y submarinos) y cada uno vale una cantidad diferente de puntos; los submarinos tienen el valor más alto y los submarinos el más bajo. El objetivo del juego es simplemente alcanzar la puntuación más alta posible dentro del tiempo dado, que el operador puede establecer entre 60 y 90 segundos.|https://www.mobygames.com/images/shots/s/760932-guided-missile-arcade-screenshot-menu.jpg|
+Hogs of War|Infogrames Studios Limited|2000|Bélico, Estrategia|PlayStation 3, PSP, PS Vita, Windows|Dirige un regimiento de cerdos a través de diferentes campos de batalla, todos con la misma misión: eliminar al enemigo. La jugabilidad es comparable a los juegos de Worms, pero Hogs Of War viene completamente en 3D. Hay muchos tipos diferentes de armas para elegir, así como la posibilidad de asignar trabajos especiales como francotirador, médico, etc. a los cerdos.|https://www.mobygames.com/images/covers/s/97042-hogs-of-war-playstation-front-cover.jpg|
+Worms: Armageddon|Team17 Software Limited|1999|Bélico, Estrategia|Dreamcast, Game Boy Color, Nintendo 64, Windows|Worms: Armageddon es una expansión independiente de Worms 2, que presenta amplias mejoras y adiciones sobre el juego original, entre las que se encuentran:
+
+    16 nuevas armas y 6 nuevas utilidades, con algunas existentes cambiadas o reequilibradas (3 fueron eliminadas por completo)
+    nuevas campañas y desafíos para un jugador
+    nuevos esquemas de juego, algunos de los cuales deben desbloquearse a través de misiones de campaña (ciertas armas solo están disponibles en algunos de estos esquemas)
+    nueva interfaz de menú, sonidos, bancos de voz y música
+    nuevos mapas predefinidos
+    editor de mapas ampliado, editor de banco de voz incluido (este último es una aplicación separada)
+    Los equipos ahora pueden tener banderas representativas personalizadas, himnos de victoria y lápidas.
+    A cada equipo se le asigna un arma especial de elección: Granada de mano sagrada, Lanzallamas, Vacas locas o Dama vieja.
+    Los equipos controlados por IA ahora tienen uno de los cinco niveles de dificultad.
+    controles de salto actualizados para que los gusanos puedan saltar hacia atrás y hacer volteretas hacia atrás
+    en lugar de seleccionar un gusano al comienzo de cada turno, esta opción ahora se considera una utilidad y generalmente tiene un número limitado de usos
+    nuevas opciones multijugador, incluido un lobby WormNET más elaborado
+
+Al igual que las entregas anteriores de Worms, el juego es una variante de artillería. El jugador le da a una pieza de artillería un ángulo de disparo y una potencia de disparo, e intenta golpear al oponente, teniendo en cuenta los efectos del viento. El jugador y el oponente intercambian estos tiros por turnos. El juego pone al jugador al mando de un equipo de hasta ocho gusanos, que pueden moverse por el paisaje (uno a la vez), usando muchos tipos de armas para tratar de despachar al enemigo, desde bazucas hasta mini-pistolas y ovejas explosivas. . En algunas situaciones, los gusanos también pueden saltar, columpiarse con una cuerda y descender con un paracaídas.
+
+A partir de 2002, las actualizaciones han sido manejadas por un miembro autorizado de la comunidad llamado Deadcode, a quien CyberShadow se unió en 2006. Los dos eliminaron muchos errores y fallas, mejoraron la estabilidad del juego y la compatibilidad para los sistemas operativos Windows que se lanzaron a lo largo del camino, agregaron nuevas funciones (más resoluciones, opciones y configuraciones ampliadas, repeticiones de partidos grabadas automáticamente, compatibilidad con PNG completo para la importación de mapas ...) y WormKit integrado, un marco de extensión para el juego que permite una modificación más sencilla. Estas actualizaciones han estado disponibles en los servidores de Team17 y se incluyen de forma predeterminada en versiones digitales posteriores.|https://www.mobygames.com/images/covers/s/7089-worms-armageddon-playstation-front-cover.jpg|
+Angry Birds|Rovio Entertainment Oy|2011|Bélico, Rompecabezas|Android, bada, BlackBerry, Browser, Fire OS, iPad, iPhone, Macintosh, Maemo, MeeGo, PlayStation 3, PSP, PS Vita, Roku, Symbian, Tizen, webOS, Windows, Windows Phone|Angry Birds es un juego de estrategia similar a títulos como Crush the Castle, donde el trabajo del jugador es ayudar a los pájaros enojados a recuperar sus huevos que han sido robados por desagradables cerdos verdes. A lo largo de los 105 niveles, el jugador controla una catapulta cargada con una de varias especies diferentes de aves para estrellarlas contra los edificios fortificados con los cerdos adentro. Para completar un nivel, todos los cerdos deben haber sido aplastados a través de los pájaros directamente o de los pedazos del edificio colapsado.||
+Crazy Penguin Catapult|Digital Chocolate Oy|2011|Bélico, Estrategia|Android, BlackBerry, Browser, iPhone|Crazy Penguin Catapult es un juego de estrategia protagonizado por pingüinos. Los malvados osos polares han secuestrado a los hijos de los pingüinos y los pingüinos, armados con ellos mismos y una catapulta atravesará más de 30 niveles chocando con los osos para salvar a los niños secuestrados.
+
+La jugabilidad de Crazy Penguin Catapult se divide en 2 partes:
+
+    La catapulta: los pingüinos se balancearán o saltarán hacia la catapulta y, dependiendo de su ángulo, serán enviados a la batalla o aplastados antes de que tengan la oportunidad de hacer algo. Un pingüino aplastado les da a los jugadores menos personajes capaces de atrapar a todos los osos.
+
+    El combate: los pingüinos que los jugadores catapultan con éxito volarán alrededor de un nivel y cuando los jugadores presionen un botón o toquen la pantalla, caerán para atacar a los osos.
+
+El juego ofrece potenciadores desbloqueables adicionales, como volar a través de un aro en la primera parte, que prenderá fuego a un pingüino y le permitirá volar a través de los bloques de hielo sin chocar con ellos. Otros potenciadores son pingüinos adicionales, rebotes adicionales antes de que un pingüino pierda la vida, una habilidad ninja que le permite al pingüino detenerse en el aire y cambiar la dirección en la que vuelan, así como la adición de dinamita y más fuerza. para aplastar los bloques de hielo. Para desbloquear estos potenciadores, los jugadores deben recolectar estrellas que se otorgan después de completar cada nivel.
+
+Algunas versiones móviles del juego también tienen un modo Estrategia, que es un minijuego en el que los jugadores deben capturar territorios que están ocupados por osos polares y esto se puede lograr eligiendo un bloque de pingüinos cerca de los osos y tocando en el área. infestado por los osos. Cuantos más personajes tengan los jugadores en su campo, más posibilidades tendrán de derrotar a los osos y capturar su territorio.||
+iShoot |Naughty Bits Software, LLC|2010|Bélico, Estrategia|Android, BlackBerry, BREW, iPhone |iShoot es un juego de combate de artillería similar a Scorched Earth. Es un juego por turnos donde cuatro tanques (controlados por humanos o IA) compiten entre sí y donde el último en pie gana el juego. Al disparar, el jugador debe decidir el ángulo de disparo y la potencia necesaria. También es importante vigilar el viento y las propiedades balísticas de las armas. A medida que los proyectiles caen sobre los campos de batalla, no solo dañan los tanques, sino también el medio ambiente, lo que genera grandes cráteres.
+
+Los jugadores pueden elegir entre una gran cantidad de armas con diferentes propiedades y, después de una ronda, hay más dinero disponible para comprar otras nuevas. Esto incluye morteros, escopetas, bombas de racimo, misiles y varios tipos de armas nucleares. También hay armas que se utilizan para alterar los entornos, como las bolas de tierra que se pueden utilizar para enterrar los tanques en un montón de barro y la excavadora que destruye la tierra pero no daña los tanques.|https://www.mobygames.com/images/covers/s/380288-ishoot-j2me-front-cover.jpg|
+Death Tank|Flat Games LLC, Snowblind Studios, Inc.|2009|Bélico, Estrategia, Disparo|Xbox 360|Death Tank mezcla la jugabilidad de Scorched Earth y la serie Worms con tanques. El juego se desarrolla en un campo de batalla 2D de una sola pantalla donde se colocan diferentes tanques entre valles y montañas, que se muestran desde una vista lateral. Los jugadores deben mover sus tanques de izquierda a derecha y apuntar a los otros tanques estimando la balística de los proyectiles, según el ángulo de disparo y la potencia de disparo. El juego se juega en tiempo real, por lo que es posible realizar disparos consecutivos con misiles, proyectiles y bombas nucleares. De cerca, también es posible disparar con una ametralladora y la salud se muestra como una pequeña barra sobre los vehículos.
+
+Los elementos adicionales permiten que el tanque vuele con chorros de salto, use súper combustible para mejorar la velocidad, active un escudo, haga que el tanque explote cuando sea destruido y active la orientación precisa de la IA. Los aviones arrojan paquetes y algunos quedan enterrados en el paisaje. Las armas adicionales que se pueden recoger son láseres, cohetes locos, corrientes de plasma, bolas de plasma y bombas de retardo (bombas adhesivas).
+
+El juego consta de una campaña de combate básica y otra avanzada, cada una con veinte rondas. Los puntos ganados durante el juego se pueden gastar en doce mejoras diferentes. El modo multijugador es compatible con cuatro jugadores localmente y ocho jugadores en línea.|https://www.mobygames.com/images/covers/s/192742-death-tank-xbox-360-front-cover.jpg|
+FishCraft|FrozenSoft|2011|Bélico, Rompecabezas|Xbox 360|FishCraft es un juego de balística fuertemente inspirado en el juego casual finlandés Angry Birds. Los peces buscan vengarse de los gatos por comerse a sus amigos y familiares. La forma de lograrlo es disparándose a los gatos (que han construido fortalezas para protegerse) con un cañón.
+
+El juego consiste en que el jugador ajusta un cañón (potencia y puntería) hacia las fortalezas de los gatos y dispara varios peces, con el objetivo de eliminar a todos los gatos antes de quedarse sin peces. El juego se basa en la física, lo que significa que golpear la fortaleza en ciertos puntos débiles hará que se derrumbe sobre los gatos que no lo saben. Hay varios tipos diferentes de peces con diferentes propiedades (uno, por ejemplo, se puede hacer explotar al impactar y causar daños importantes), y cada etapa tiene un número determinado de peces diferentes. El truco consiste en averiguar cómo utilizarlos mejor para terminar la etapa con una puntuación alta.
+
+Las etapas se desbloquean cuando el jugador las termina, y hay 63 en total. Por cada etapa terminada, el jugador recibe una calificación de estrellas que muestra qué tan bien lo hizo.|https://www.mobygames.com/game/xbox360/fishcraft/cover-art/gameCoverId,222723/|
+Tank Strike|Stegersaurus Software Inc.|2009|Bélico, Estrategia|Xbox 360|Tank Strike es una variante de artillería. El jugador toma el control de los tanques (o, según el tema del nivel, otras cosas como cañones u octópodos. La idea básica es simple: durante cada turno, el jugador apunta el cañón del tanque (ángulo y fuerza) e intenta golpear a los otros jugadores con una bomba. Alternativamente, la bomba también se puede colocar con un fusible. En la configuración estándar, cuando una bomba golpea el borde izquierdo o derecho de la pantalla, rebota; si sale hacia arriba, el disparo continúa simulando hasta vuelve a entrar en la pantalla. Todo lo que es alcanzado por el radio de explosión sufre daños, incluido el entorno. Hasta ocho tanques (todos controlados por los jugadores o por la IA) pueden participar en una partida.
+
+Cada participante comienza con algo de dinero (y recibe más por el daño infligido y la destrucción) que se puede usar para comprar cosas útiles antes de cada ronda: armas (por ejemplo, un disparo extendido, un arma que tiene poco daño destruye una gran parte de tierra, un arma que atraviesa el entorno o una bomba de paracaídas), munición (la bomba estándar tiene munición ilimitada), escudos o modificadores (por ejemplo, gravedad pesada, imán o gravedad inversa). El partido en sí también se puede personalizar de varias maneras: opciones estándar (número de jugadores, tema de nivel, número de rondas), opciones de armas (desactivar armas / modificadores, cambiar el costo del dinero), opciones en efectivo (dinero inicial, recompensas en dinero ), opciones de nivel (por ejemplo, si los bordes son elásticos como se describió anteriormente, algunas piedras angulares para la creación de niveles aleatorios, energía eólica, gravedad, etc.) y opciones de tanque (lo más importante es cuánto tiempo tiene cada jugador para preparar el tiro).|https://www.mobygames.com/images/covers/s/320127-tank-strike-xbox-360-front-cover.jpg|
+Bomb the Monsters! |Finalboss Game Studio|2014|Bélico, Rompecabezas|Windows, Android |¡No hagas enojar a estos monstruos! Dispara tus bombas a esas horribles criaturas y haz que los edificios se derrumben sobre ellas. ¡Con hermosos gráficos HD y una física increíble!
+
+"¡Bombardear a los monstruos!" presenta la historia de un pintor de gran talento que vive una vida perfecta con su amada esposa. Pero un día las cosas están cambiando cuando una enorme horda de monstruos feos invade el planeta tierra, captura a la esposa del pintor y agota y explota todo el planeta. Ahora le toca al jugador detener esta horrible invasión y rescatar al pobre rehén, ¡es más fácil decirlo que hacerlo!
+
+La jugabilidad muy conocida ofrece una entrada fácil al juego: en cada nivel, el jugador debe colocar una cantidad limitada de bombas junto a los monstruos para que los alrededores y los edificios colapsen sobre ellos para expulsar a los monstruos. Pero los monstruos vienen en varios tamaños y formas y son gordos, imbéciles y extremadamente pegajosos. Debido a la estructura física de sus cuerpos, estas estúpidas criaturas se adhieren a casi todo lo que hace que a veces sea complicado bombardearlas.
+
+"¡Bombardear a los monstruos!" ofrece más de 60 niveles en hermosos gráficos HD; cada nivel viene con soluciones no lineales para eliminar los monstruos feos. Buena música y sonidos, además de un sistema de logros motivador, también forman parte de este adictivo juego para dispositivos móviles y ofrece diversión para toda la familia.
+
+CARACTERISTICAS:
+
+* ¡Fácil de aprender, difícil de dominar!
+* Juego adictivo y muy famoso
+* 60 niveles, divididos en 6 mundos diferentes
+* Física realista. ¡Todo en el juego usa atributos físicos como masa, fuerza, fricción y gravedad!
+* Soluciones no lineales para todos y cada uno de los niveles.
+* Animaciones impresionantes
+* Buena música y efectos de sonido impresionantes.
+* Sistema de logros motivadores con más de 10 elementos desbloqueables.
+* Multilingue||
+Bowmasters|Playgendary GmbH|2016|Bélico, Estrategia|iPad, iPhone, tvOS|¡Versión sin publicidad del juego! ¡No anuncios de banner irritantes! ¡3 personajes incluidos más 3.000 monedas gratis!
+
+Una nueva versión del juego de fama mundial con arqueros, un juego de apuntar y disparar muy llamativo que Bowmasters (sin publicidad) tiene reservado para ti:
+
+• ¡60 PERSONAJES LOCOS de todas las dimensiones absolutamente gratis! • ¡MULTIJUGADOR EN LÍNEA! • ¡60 ARMAS DIFERENTES para un caos total, muertes asombrosas con la física de muñeco de trapo! • DUELOS ÉPICOS CON TUS AMIGOS. ¡Toma a tus amigos y muéstrales lo que vales! • MÚLTIPLES MODOS DE JUEGO. ¡Dispara pájaros o frutas, derrota a los enemigos en duelos y gana dinero por ello! • ¡RECOMPENSAS INFINITAS POR SUS HABILIDADES!||
+Crazy Chicken Strikes Back||2016|Bélico, Estrategia|iPad, iPhone, Nintendo Switch, Windows |¡Juego de artillería lleno de acción con CRAZY CHICKEN en su máxima expresión!
+
+¡Finalmente, "CRAZY CHICKEN" contraataca! Prepárate, apunta, dispara ... y nunca descuides tu propia tapadera. Lucha contra la IA, tus amigos ... ¡o tus enemigos! ¡Acción pura LOCA DE POLLO!
+La historia
+
+CRAZY CHICKEN regresa a su residencia escocesa solo para descubrir que un desagradable Jefe de Clan se ha sentido como en casa allí en su ausencia. Este personaje sombrío ha secuestrado a una doncella, y CRAZY CHICKEN comienza su aventura para rescatarla. Comienza una batalla por territorio y castillos, ¡y por la hermosa doncella, por supuesto!
+
+
+
+
+El juego presenta una extensa campaña para un solo jugador, así como varias opciones multijugador, para todos los jugadores que disfrutan competir con oponentes de la vida real.
+Plataforma cruzada
+
+Todos los modos multijugador admiten juegos multiplataforma, lo que te permite desafiar y tomar el botín de tus amigos en diferentes dispositivos y plataformas, incluidos PC, iOS y Android.
+
+Un solo jugador
+
+Prepara la sede de tu clan para construir una fortaleza poderosa y prestigiosa, y actualízala continuamente con mejores armas e instalaciones de defensa. Persigue al malvado Jefe del Clan de una batalla a otra, y hazte más fuerte y más poderoso. Comienzas con una pequeña choza, pero pronto podrás mejorar y ampliar cada elemento de tu residencia. Eventualmente, te convertirás en el señor de un extenso castillo, capaz de resistir ataques más pesados.
+
+Multijugador en vivo
+
+Juega duelos en vivo rápidos y llenos de acción contra tus amigos u oponentes aleatorios de todo el mundo. Simplemente acepte una contraseña y estará listo para jugar, en diferentes dispositivos y plataformas. Es simple y completamente libre de problemas.
+Saqueo
+
+Atrapa a tus oponentes con la guardia baja atacándolos y robándoles cuando quieras.|https://www.mobygames.com/images/covers/s/457156-crazy-chicken-strikes-back-android-front-cover.jpg|
+Crazy Penguin Catapult |Digital Chocolate Oy|2009|Bélico, Estrategia|BlackBerry, Browser, iPhone, J2ME, Android|Crazy Penguin Catapult es un juego de estrategia protagonizado por pingüinos. Los malvados osos polares han secuestrado a los hijos de los pingüinos y los pingüinos, armados con ellos mismos y una catapulta atravesará más de 30 niveles chocando con los osos para salvar a los niños secuestrados.
+
+La jugabilidad de Crazy Penguin Catapult se divide en 2 partes:
+
+    La catapulta: los pingüinos se balancearán o saltarán hacia la catapulta y, dependiendo de su ángulo, serán enviados a la batalla o aplastados antes de que tengan la oportunidad de hacer algo. Un pingüino aplastado les da a los jugadores menos personajes capaces de atrapar a todos los osos.
+
+    El combate: los pingüinos que los jugadores catapultan con éxito volarán alrededor de un nivel y cuando los jugadores presionen un botón o toquen la pantalla, caerán para atacar a los osos.
+
+El juego ofrece potenciadores desbloqueables adicionales, como volar a través de un aro en la primera parte, que prenderá fuego a un pingüino y le permitirá volar a través de los bloques de hielo sin chocar con ellos. Otros potenciadores son pingüinos adicionales, rebotes adicionales antes de que un pingüino pierda la vida, una habilidad ninja que le permite al pingüino detenerse en el aire y cambiar la dirección en la que vuelan, así como la adición de dinamita y más fuerza. para aplastar los bloques de hielo. Para desbloquear estos potenciadores, los jugadores deben recolectar estrellas que se otorgan después de completar cada nivel.
+
+Algunas versiones móviles del juego también tienen un modo Estrategia, que es un minijuego en el que los jugadores deben capturar territorios que están ocupados por osos polares y esto se puede lograr eligiendo un bloque de pingüinos cerca de los osos y tocando en el área. infestado por los osos. Cuantos más personajes tengan los jugadores en su campo, más posibilidades tendrán de derrotar a los osos y capturar su territorio.|https://www.mobygames.com/images/shots/s/974272-crazy-penguin-catapult-android-screenshot-the-title-screen.jpg|
+Dude Perfect|Dude Perfect, LLC|2012|Bélico, |iPad, iPhone, Android|Tú y, si quieres, un amigo intentan hacer trucos de baloncesto para conseguir la mayor cantidad de puntos. Cuanto más complejo sea el tiro, más puntos. Establece tu ángulo y potencia y luego lanza. Puede que tengas que superar obstáculos, golpear una canasta que lleva un dirigible, rebotar en otro objeto, etc. Hay un editor de niveles para hacer tus propios tiros.|https://www.mobygames.com/images/covers/s/289739-dude-perfect-android-front-cover.jpg|
+Gravipult|Dorset Hill Games|2019|Bélico, Rompecabezas|iPad, iPhone , Android|Gravipult es un juego de rompecabezas de temática espacial que utiliza la física de la gravedad. El jugador controla un cometa azul que se puede lanzar deslizando la pantalla en diferentes direcciones. El objetivo del juego es disparar al cometa a través del espacio y a los agujeros de gusano, mientras recoge estrellas en el camino. Hay más de 30 niveles con obstáculos, como planetas, asteroides y partes de satélites, que intentarán evitar que el cometa llegue a su destino. Es por eso que en muchos niveles, el jugador necesitará usar los campos de gravedad de los planetas para cambiar la trayectoria y la velocidad del cometa para llegar al final de cada nivel.|https://www.mobygames.com/images/covers/s/605660-gravipult-android-front-cover.jpg|
+iShoot|Naughty Bits Software, LLC|2010|Bélico, Estrategia|Android, BlackBerry, BREW, iPhone, J2ME |iShoot es un juego de combate de artillería similar a Scorched Earth. Es un juego por turnos donde cuatro tanques (controlados por humanos o IA) compiten entre sí y donde el último en pie gana el juego. Al disparar, el jugador debe decidir el ángulo de disparo y la potencia necesaria. También es importante vigilar el viento y las propiedades balísticas de las armas. A medida que los proyectiles caen sobre los campos de batalla, no solo dañan los tanques, sino también el medio ambiente, lo que genera grandes cráteres.
+
+Los jugadores pueden elegir entre una gran cantidad de armas con diferentes propiedades y, después de una ronda, hay más dinero disponible para comprar otras nuevas. Esto incluye morteros, escopetas, bombas de racimo, misiles y varios tipos de armas nucleares. También hay armas que se utilizan para alterar los entornos, como las bolas de tierra que se pueden utilizar para enterrar los tanques en un montón de barro y la excavadora que destruye la tierra pero no daña los tanques.|https://www.mobygames.com/images/covers/s/296202-ishoot-android-front-cover.jpg|
+Pocket Tanks |Blitwise Productions LLC|2012|Bélico, Estrategia|Android, iPad, iPhone, Macintosh, Windows |Pocket Tanks se basa en el concepto del juego más antiguo Scorched Earth que todos conocemos, 2 tanques se colocan en un terreno aleatorio y la batalla comienza con más de 60 armas y constantemente nuevos paquetes de armas y actualizaciones del juego por parte del autor. Puedes decidir si quieres jugar con el viento, los tipos de terreno, el tamaño de la explosión y la patada. Puedes jugar contra la computadora en 10 niveles de dificultad, o contra otro amigo en combate regular o práctica de tiro. El verdadero desafío es encontrar una combinación de ángulo y poder que golpee el tanque del oponente, el viento dificulte la tarea y ajustarse a los ataques de su oponente, como los ataques basados en cobertura de tierra y otras armas de alta tecnología que juegan con su puntería. .|https://www.mobygames.com/images/covers/s/302425-pocket-tanks-android-front-cover.jpg|
+Siege Hero |War Spark|2012|Bélico, Rompecabezas|Android, Browser, iPad, iPhone, Macintosh |Siege Hero es un juego de rompecabezas de física en el que el jugador tiene que derribar edificios para matar a los malos con la menor cantidad de tiros posible. Al mismo tiempo, debe asegurarse de que los campesinos o las doncellas no sufran daños. Es similar a Angry Birds, excepto que se trata menos de rastro y error para apuntar tus disparos correctamente, y tiene más énfasis en el elemento del rompecabezas a medida que intentas encontrar el punto débil en cada una de las estructuras.
+
+Puede tocar en cualquier lugar para disparar, o tocar y mantener presionado para obtener una vista de telescopio y golpear fácilmente cualquier lugar exactamente donde lo desee. En cada nivel obtienes varios proyectiles que solo puedes usar en un orden fijo. Los proyectiles incluyen piedras, bombas, tinajas, barriles de petróleo y garfios. En algunos niveles obtienes un grupo de tres proyectiles iguales, por ejemplo, tres piedras o tres bombas. Los barriles de petróleo no dañan el edificio, pero eliminan a los humanos. El gancho de agarre se puede utilizar para tirar de un solo bloque de la estructura.
+
+El juego se trata de encontrar los puntos débiles de las estructuras. Los edificios están hechos de bloques de piedra, madera, metal y otros materiales. Después de cada disparo, los bloques y escombros empujarán, tirarán y rodarán o se deslizarán sobre otros bloques de acuerdo con las leyes de la física simulada.
+
+El juego comienza con "Edad de la fortaleza", luego "Edad del descubrimiento", "Edad de los piratas", "Edad de los vaqueros", etc. Una "edad" tiene tres partes de 21 niveles, cada una con su propio tema ilustrado con dibujos animados brillantes y lindos. -como gráficos. No hay una historia única, pero cada tema comenzará con una breve secuencia de introducción, mostrando un grupo de doncellas que luego son asediadas por un grupo de malos; Los campesinos son esclavizados por el malvado shogun, un pueblo es invadido por vikingos, una doncella en un castillo es atacada por caballeros, los aldeanos son conducidos a un volcán por salvajes, un pueblo es asediado por conquistadores españoles, etc.|https://www.mobygames.com/images/covers/s/298079-siege-hero-android-front-cover.jpg|
+Tank Stars|Playgendary GmbH|2020|Bélico, Estrategia, Disparo|Android, iPad, iPhone |Tanques a tu alcance. Elija un arma, desde un simple misil hasta una bomba atómica, y encuentre el ángulo de disparo correcto y destruya a sus oponentes. Haz el tiro correcto rápidamente o morirás.
+
+- Un montón de armas mortales: todo para una aniquilación perfecta - Juego multijugador en línea. Juega con amigos - Geniales mejoras de armas para hacerte realmente poderoso y rompedor - Efectos gráficos épicos|https://www.mobygames.com/images/covers/s/661239-tank-stars-android-front-cover.jpg|
+Tutti Bugs |SenseByte Mobile|2014|Bélico, Estrategia|Android, BlackBerry, iPad, iPhone |Tutti Bugs es un juego de tirachinas en el que el jugador asume el papel de un lindo monstruo que intenta alimentar a los Tutti Bugs aislados en un planeta lejano. La mecánica es muy sencilla. El jugador controla la lengua del monstruo arrastrándola hacia atrás y luego ajustando el ángulo para lanzar alimentos a los Tutti Bugs. La puntuación y las monedas se otorgan en función de la cantidad de disparos y el tiempo que le toma al jugador alimentar a todos los insectos.
+
+Hay 60 niveles divididos en seis mundos. Una vez terminado un mundo, el jugador puede desbloquear el siguiente gastando algunas monedas. Si el jugador no tiene suficientes monedas, puede volver a jugar los niveles anteriores o uno de los cuatro minijuegos para lograr más monedas, o puede comprar más monedas en la tienda del juego con dinero real.
+
+La conexión de Facebook permite a los jugadores guardar y compartir su progreso entre dispositivos y plataformas, y también les permite competir con amigos.|https://www.mobygames.com/images/covers/s/304898-tutti-bugs-android-front-cover.jpg|
+Zipline Games, Inc.|Wolf Toss|2011|Bélico, Rompecabezas|Android, Browser, iPad, iPhone|Una mezcla entre Angry Birds y Sid & Al's Incredible Toons, este juego refuerza la premisa básica de Angry Birds (trazar una trayectoria balística 2D para destruir las casas de los cerdos) pero establece la fábula tradicional de los tres cerditos, poniendo al jugador en el papel del lobo feroz, cuyo trabajo es comer carne de cerdo escondida en casas de paja, madera y ladrillo. El lobo antes mencionado se lanza de los cañones, al estilo de un circo, después de ajustar su ángulo, la potencia de disparo y aplicar los modificadores especiales disponibles (por ejemplo, prendiéndose fuego; ¡seguro que se encarga de las paredes de paja y madera!) Cada cañón solo puede lanzarlo tantas veces, pero afortunadamente la mayoría de los niveles contienen muchos cañones, lo que le permite al Lobo elegir los ángulos desde los que montar su asalto contra los cerdos. A veces simplemente no puede tener un buen ángulo de los cerdos, pero puede recibir un disparo hacia o contra objetos ambientales, provocándolos, al estilo de Rube Goldberg, para que de alguna manera promuevan su sombrío trabajo contra los cerdos.
+
+Los niveles (¡144 de ellos!) También ofrecen bonificaciones por recoger y los puntajes aumentan con destrucción adicional, aunque los jugadores también son recompensados ​​al completar el nivel por salvar tiros y hacer un trabajo rápido con los cerdos. Las monedas se obtienen al completar el nivel, que se pueden usar para desbloquear ciertos niveles (como las mansiones extensas y en expansión) o dar una vuelta en la Rueda de las trampas.|https://www.mobygames.com/images/covers/s/237112-wolf-toss-android-front-cover.jpg|
+Wormix|Pragmatix Ltd|2014|Bélico, Estrategia|Android, Browser, iPad, iPhone|Wormix: un juego táctico por turnos en el que puedes luchar contra la computadora o tus amigos usando docenas de tipos de armas e innumerables estrategias de combate. Wormix está optimizado para iPhone 4 y superior, iPod touch de 4ª generación y superior, iPad 2 y superior.
+
+LAS TÁCTICAS LO SON TODO No puedes ganar en este juego simplemente confiando en el azar. Todas tus habilidades se pondrán a prueba, sin olvidar tu velocidad de reacción, puntería y habilidad como estratega.
+
+MÚLTIPLES MODOS DE JUEGO Perfecciona tus habilidades en misiones para un jugador. Batalla en arenas PvP. Invita a tus amigos a probar su fuerza en Duelos. Perfecciona tu técnica, derrotando a los jefes uno a uno o con un compañero.
+
+CARRERAS IMPRESIONANTES Boxeadores feroces, demonios infernales, conejos ágiles, gatos astutos y zombis de sangre fría: ¿qué raza elegirás? Cada raza tiene sus propias características distintivas que afectan el resultado de la pelea.
+
+ARSENAL IMPRESIONANTE Más de 50 tipos diferentes de armas en la tienda del juego: platillos voladores, mini arañas, teletransportadores, propulsores y una gran cantidad de otros dispositivos.
+
+CREA TU PERSONAJE Descubre nuevos sombreros y artefactos, cambia la apariencia de tu personaje, mejora sus habilidades y adquiere habilidades increíbles.
+
+MAPAS SIN LÍMITES Prepárate para un emocionante viaje por cada rincón del impresionante Universo de Wormix, donde las islas en el cielo dan paso a las ruinas de megaciudades y los planetas perdidos se convierten en pueblos fantasmas ...|https://www.mobygames.com/images/covers/s/624611-wormix-android-front-cover.jpg|
+Crazy Chicken Strikes Back|Young Fun Studio|2018|Bélico, Estrategia|Android, iPad, iPhone, Windows, Nintendo Switch|¡Juego de artillería lleno de acción con CRAZY CHICKEN en su máxima expresión!
+
+¡Finalmente, "CRAZY CHICKEN" contraataca! Prepárate, apunta, dispara ... y nunca descuides tu propia tapadera. Lucha contra la IA, tus amigos ... ¡o tus enemigos! ¡Acción pura LOCA DE POLLO!
+La historia
+
+CRAZY CHICKEN regresa a su residencia escocesa solo para descubrir que un desagradable Jefe de Clan se ha sentido como en casa allí en su ausencia. Este personaje sombrío ha secuestrado a una doncella, y CRAZY CHICKEN comienza su aventura para rescatarla. Comienza una batalla por territorio y castillos, ¡y por la hermosa doncella, por supuesto!
+
+
+
+
+El juego presenta una extensa campaña para un solo jugador, así como varias opciones multijugador, para todos los jugadores que disfrutan competir con oponentes de la vida real.
+Plataforma cruzada
+
+Todos los modos multijugador admiten juegos multiplataforma, lo que te permite desafiar y tomar el botín de tus amigos en diferentes dispositivos y plataformas, incluidos PC, iOS y Android.
+
+Un solo jugador
+
+Prepara la sede de tu clan para construir una fortaleza poderosa y prestigiosa, y actualízala continuamente con mejores armas e instalaciones de defensa. Persigue al malvado Jefe del Clan de una batalla a otra, y hazte más fuerte y más poderoso. Comienzas con una pequeña choza, pero pronto podrás mejorar y ampliar cada elemento de tu residencia. Eventualmente, te convertirás en el señor de un extenso castillo, capaz de resistir ataques más pesados.
+
+Multijugador en vivo
+
+Juega duelos en vivo rápidos y llenos de acción contra tus amigos u oponentes aleatorios de todo el mundo. Simplemente acepte una contraseña y estará listo para jugar, en diferentes dispositivos y plataformas. Es simple y completamente libre de problemas.
+Saqueo
+
+Atrapa a tus oponentes con la guardia baja atacándolos y robándoles cuando quieras.|https://www.mobygames.com/images/covers/s/457161-crazy-chicken-strikes-back-nintendo-switch-front-cover.jpg|
+Fox Kids Kinder Spiele: Volume 3 |Toon 8 Games|2002|Bélico, Acción, Rompecabezas, Carreras, Deporte, Estrategia, Arcade, Peleas, Juegos de mesa, Plataforma, Disparo|Windows|Fox Kids Kinder Spiele: Volume 3 es una colección de juegos casuales que se juegan en una ventana del navegador en la computadora del jugador. Los juegos se reproducen directamente desde el CD y no requieren instalación. Aunque el título está en alemán, los juegos tienen instrucciones en inglés, francés, alemán y español.
+Los juegos de esta compilación están agrupados en categorías, son:
+
+    Dispara a todos:
+        Escape 3: es el tercer episodio de la serie Escape. Es un juego de disparos de tres niveles controlado por mouse en el que el personaje dispara a hordas de personajes fantasmales grises antes de conocer al jefe. Si el jefe es derrotado, los tres niveles se repiten.
+        Snipe: basado en una galería de tiro de un parque de atracciones donde el jugador dispara tantos tubos como sea posible en un período de treinta segundos. Esto se hace más difícil porque la retícula de destino no se queda quieta
+        Catapulta: una variante de artillería en la que el jugador debe destruir el castillo enemigo con un número fijo de disparos.
+        SSD: es un disparador espacial de desplazamiento lateral, controlado por mouse
+        Shoot Butterfly: es un juego de Whac-A-Mole, la mariposa debe proteger el planeta de los extraterrestres, por lo que cada vez que aparece uno en la pantalla, el jugador tiene que golpearlo con el mouse.
+        Guerra de cerdos: dispara a los cerdos evitando sus balas. El jugador puede moverse de un lado a otro con las teclas de flecha, el arma apunta con el mouse
+        Balltrap: es un juego de tiro al plato, golpea tantos platos como sea posible en un tiempo limitado
+    Reflexión:
+        Diamantes: es una variante de Connect Four
+        Puzzle 2: es un rompecabezas en el que una imagen se divide en cuadrados y se debe volver a montar dentro de un límite de tiempo.
+        Reverso 2: es una implementación de Reversi
+        USS: es un juego de acorazado de jugador contra computadora donde el objetivo es hundir la flota enemiga antes de que hunda la tuya.
+        Laberinto: aquí el jugador debe encontrar la salida de un laberinto en un tiempo limitado trazando su camino con el mouse. Esto se dificulta porque cualquier contacto con una pared termina el juego y solo el área alrededor del cursor del mouse es visible
+    Deporte:
+        Formula Toon: un juego de carreras controlado por teclado
+        Fat Punch: es un juego de lucha de combinación de teclados en el que el jugador debe derrotar a su oponente
+        Tiercé: es un juego de carreras de caballos de arriba hacia abajo. Está controlado por teclado y se reproduce de forma muy similar a Formula Toon
+        Tennis Open: es un juego de tenis controlado por teclado para uno o dos jugadores que se juega como Pong
+    Habilidad / Reflejo:
+        Big Splash: este juego se basa en un juego de feria popular en los EE. UU. Donde el jugador lanza la pelota a un objetivo y, si lo golpea, alguna persona desafortunada se sumerge en un tanque de agua. Aquí, el jugador lanza pasteles y una vez que la persona se sumerge, se obtienen puntos adicionales por golpear a un objetivo de payaso mientras ella está fuera de la imagen.
+        Crazy Cars: un juego controlado por teclado para dos jugadores. Cada jugador controla un coche con púas en la parte delantera y globos en la parte trasera, el objetivo es hacer estallar todos los globos del oponente para ganar.
+        Snow Ball: una implementación de Ping para un jugador, uno jugado contra la computadora o dos jugadores.
+        Bombero: es un tirador vertical, un poco como un Space Invaders invertido. El bombero está en lo alto de un edificio en llamas, debajo de él brotan fuegos por las ventanas. El jugador debe lanzar agua sobre estos fuegos y evitar que lleguen a la parte superior del edificio.
+        Ghost House: una linda niña ha entrado en una casa de zombies y el jugador debe asustarla. Al hacer clic en los ataúdes de zombies, el zombi se sienta y revela una flecha de dirección. La niña está en constante movimiento y cuando se acerca a una flecha cambia de dirección. El jugador debe hacer clic en los ataúdes en la secuencia correcta y en el momento adecuado para guiarla a la puerta.
+        Puré de monos: los monos se esconden en los árboles, el jugador debe derribar cada árbol embistiéndolo con su coche y luego atropellar sin piedad a cada mono verde tierno.
+        Star Command: es un juego Light Cycle para dos jugadores controlado por teclado
+        Corrida: es un juego para un jugador basado en la tauromaquia. Juega como Space Invaders con el jugador que controla al toro, que se mueve de izquierda a derecha en la parte inferior de la pantalla, y lucha contra oleadas descendentes de toreros.
+    Plataforma:
+        Aïtchu 3: es el tercer episodio de un juego de plataformas de desplazamiento lateral en el que Aïtchu, el ninja, busca a su cerdo Sowsi San. Aquí entra en el dominio acuático subterráneo del rey Fugu. Este juego está disponible actualmente como juego en línea (2015)
+        Ozy Rush: un juego de plataformas de desplazamiento lateral con Ozy la momia. Ozy corre de izquierda a derecha a través de la pantalla y el jugador debe hacer clic en las plataformas en su camino para hacerlas subir o bajar.
+    Otros::
+        Jackpot 2: un simple juego de tragamonedas
+        Last Fight: un beat 'em up para dos jugadores controlado por teclado|https://www.mobygames.com/images/covers/s/303475-fox-kids-kinder-spiele-volume-3-windows-front-cover.jpg|
+Ballerburg|DonkeyCat GmbH|2012|Bélico, Estrategia|iPad, Atari ST, iPhone|Ballerburg es un juego de artillería por turnos. El juego fue lanzado como dominio público y está completamente en alemán. Hay castillos en el lado izquierdo y derecho de la pantalla, y hay una montaña generada al azar en el medio. Cada jugador tiene un castillo con varios cañones y un rey. En cada turno, un jugador puede comprar balas de cañón y pólvora, reconstruir el castillo y apuntar y disparar un cañón al oponente. El objetivo es golpear al rey de tu oponente.
+
+Antes de que comience un juego, cada jugador puede elegir entre varios castillos, cada castillo tiene un diseño diferente de cañones, almacenes y el rey. Cuando se golpea una sala de almacenamiento de pólvora o balas de cañón, el jugador pierde todo su suministro de pólvora o balas de cañón. Al disparar, el viento influye en la trayectoria de las balas de cañón.
+
+El juego también tiene elementos económicos y similares a simulaciones. Cada castillo tiene un conjunto de activos económicos, como dinero, población e impuestos. Los precios de la pólvora y la reconstrucción varían de un turno a otro, y el jugador puede optar por aumentar o reducir los impuestos para obtener más ingresos. Su población disminuirá cuando los impuestos sean demasiado altos y se agregarán al castillo de otros jugadores.|https://www.mobygames.com/images/covers/s/347696-ballerburg-ipad-front-cover.jpg|
+Crush the Castle: Siege Master|Uyava|2018|Bélico, Disparo, Rompecabezas|iPad, iPhone |Este juego es un juego de rompecabezas de proyectiles de física que emplea una acción de trebuchet, con una variedad de torres para destruir. Avanza a través de los niveles y destruye el castillo enemigo mientras dominas el trabuquete. Desbloquea una variedad de proyectiles ganando recompensas y monedas.|https://www.mobygames.com/game/ipad/crush-the-castle-siege-master/cover-art/gameCoverId,518666/|

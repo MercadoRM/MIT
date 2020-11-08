@@ -1,0 +1,109 @@
+Linux
+3DO
+Sord M5
+Apple II
+BlackBerry
+Browser
+VIC-20
+PlayStation
+Game Boy Color
+TI-99/4A
+PlayStation 3
+WonderSwan
+Atari 5200
+Atari 8-bit
+Wii
+FM-7
+Xbox
+Stadia
+Xbox 360
+Symbian
+Android
+Tizen
+Antstream
+Windows 3.x
+Windows Mobile
+Genesis
+MeeGo
+Commodore 16
+Xbox One
+Game Boy
+SG-1000
+Oculus Go
+SEGA Master System
+Windows Apps
+Dreamcast
+Sharp MZ-80B/2000/2500
+Commodore 64
+NES
+GameStick
+Nintendo Switch
+FM Towns
+tvOS
+Nintendo DS
+PC Booter
+PlayStation 2
+Roku
+Plus/4
+Tomahawk F1
+Wii
+Game Boy Advance
+webOS
+J2ME
+bada
+Windows Mobile 
+MSX
+PC-6001
+DOS
+Neo Geo CD
+PlayStation 1
+DoJa
+iPad
+Palm OS
+PC-98
+SEGA Saturn
+Intellivision
+OS/2
+Maemo
+Jaguar
+Nintendo DSi
+iPod Classic
+Amiga CD32
+Wii U
+New Nintendo 3DS
+Sharp X68000
+Amstrad CPC
+Neo Geo
+OnLive
+Sharp X1
+BREW
+Nintendo 3DS
+iPhone
+GameCube
+Windows Phone
+Ouya
+ZX Spectrum
+Neo Geo Pocket Color
+Sharp MZ-80K/700/800/1500
+Acorn 32-bit
+Oculus Quest
+iPhone 
+SNES
+Atari ST
+Atari 2600
+Sharp Zaurus
+Amiga
+Lynx
+PS Vita
+Windows
+Atari 7800
+Fire OS
+Nintendo 64
+PSP
+Game Gear
+Arcade
+TurboGrafx-16
+PlayStation 4
+PC-88
+Zeebo 
+Macintosh
