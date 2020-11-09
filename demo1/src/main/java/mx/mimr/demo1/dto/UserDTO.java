@@ -5,6 +5,7 @@ import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.Id;
 import javax.persistence.Table;
+import javax.validation.constraints.*;
 
 /* Data transfer object: Contains only data and access modifiers,
  * but no logic. It's used to transfer data between layers
@@ -21,10 +22,15 @@ public class UserDTO {
 	@GeneratedValue
 	@Column(name = "ID_USUARIO") //Details of the column it'll be mapped
 	private Long id;
+	@NotEmpty
+	@Max(value = 50 , message = "Nombre no debe ser de mas de 50 caracteres")
 	@Column(name = "NOMBRE_USUARIO")
 	private String nombre;
+	@NotEmpty
+	@Max(value = 150 , message = "Direccion no debe ser de mas de 150 caracteres")
 	@Column(name = "DIRECCION_USUARIO")
 	private String direccion;
+	@Email
 	@Column(name = "EMAIL_USUARIO")
 	private String email;
 	

@@ -1,0 +1,5 @@
+#vBox { /* modify the selector according to your needs */
+    -fx-border-style: hidden hidden solid hidden; /* Top right bottom left */
+    -fx-border-width: 5;
+    -fx-border-color: black;
+}

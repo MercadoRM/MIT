@@ -17,6 +17,8 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 import java.util.List;
 import java.util.Optional;
+import javax.validation.Valid;
+
 
 import mx.mimr.demo1.dao.*;
 import mx.mimr.demo1.dto.*;
@@ -44,8 +46,9 @@ public class UserREST {
 	}
 	
 	@PostMapping( value = "/", consumes = MediaType.APPLICATION_JSON_VALUE) 
-	public ResponseEntity<UserDTO> crearUsuario(@RequestBody final UserDTO usuario) // Convierte el contenido de la petición POST a un tipo de UserDTO
+	public ResponseEntity<UserDTO> crearUsuario( @Valid @RequestBody final UserDTO usuario) // Convierte el contenido de la petición POST a un tipo de UserDTO
 	{
+		logger.info("Creating User : {}", usuario);
 		System.out.println("El usuario recibido es:");
 		System.out.println(usuario);
 		ur.save(usuario);

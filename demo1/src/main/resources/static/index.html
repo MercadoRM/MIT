@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="es" ng-app = "demo1">
+<head>
+<title>Index</title>
+<link rel="/css/app.css">
+</head>
+<div class"page-header text-center">
+<h2>Sistema de registro de usuarios</h2>
+</div>
+<nav class="navbar navbar-default">
+	<div class="container-fluid">
+	<a href="#/"
+		class= "btn btn-info navbar-btn"
+		role="button"
+	>Home</a>
+	<a href="#/registro-usuario"
+		class= "btn btn-info navbar-btn"
+		role="button"
+	>Registro</a>
+	<a href="#/lista-usuarios"
+		class= "btn btn-info "
+		role="button"
+	>Ver todos</a>
+	</div>
+</nav>
+<div ng-view></div>
+<script src="/webjars/angularjs/1.8.0/angular.js"></script>
+<script src="/webjars/angularjs/1.8.0/angular-resource.js"></script>
+<script src="/webjars/angularjs/1.8.0/angular-route.js"></script>
+<script src="/js/app.js"></script>
+<script src="/js/controlador.js"></script>
+<link rel="stylesheet"href="/webjars/bootstrap/4.5.0/css/bootstrap.css">
+</html>
